@@ -1,0 +1,31 @@
+Model,Strategy,Method,Feature,Importance,Rank
+XGBoost,SMOTE,SHAP,age,0.8710140931922787,1
+XGBoost,SMOTE,SHAP,race_ethnicity_4.0,0.41525566028044764,2
+XGBoost,SMOTE,SHAP,waist_circumference,0.40145320277382157,3
+XGBoost,SMOTE,SHAP,average_alcoholic_drinks_per_day,0.3182821908692744,4
+XGBoost,SMOTE,SHAP,race_ethnicity_6.0,0.2605390922155017,5
+XGBoost,SMOTE,SHAP,race_ethnicity_3.0,0.24252289272153707,6
+XGBoost,SMOTE,SHAP,mean_systolic_bp,0.23826323986989958,7
+XGBoost,SMOTE,SHAP,total_sugar_g,0.22936046236644467,8
+XGBoost,SMOTE,SHAP,education_level_3.0,0.21267343276665238,9
+XGBoost,SMOTE,SHAP,alcohol_info_missing,0.21060069505444726,10
+XGBoost,SMOTE,Permutation,age,0.11848075745017324,1
+XGBoost,SMOTE,Permutation,race_ethnicity_4.0,0.03837720833258908,2
+XGBoost,SMOTE,Permutation,waist_circumference,0.030410043740637892,3
+XGBoost,SMOTE,Permutation,race_ethnicity_3.0,0.022171340589487266,4
+XGBoost,SMOTE,Permutation,total_cholesterol_mg_dl,0.016917636682855963,5
+XGBoost,SMOTE,Permutation,race_ethnicity_6.0,0.016391600117594267,6
+XGBoost,SMOTE,Permutation,average_alcoholic_drinks_per_day,0.014383373344037147,7
+XGBoost,SMOTE,Permutation,hdl_cholesterol_mg_dl,0.013504915934075734,8
+XGBoost,SMOTE,Permutation,total_sugar_g,0.012267931078927652,9
+XGBoost,SMOTE,Permutation,education_level_3.0,0.010119240425791709,10
+XGBoost,SMOTE,XGBoost Feature Importance (Gain),vigorous_recreational_activity,155.24197387695312,1
+XGBoost,SMOTE,XGBoost Feature Importance (Gain),moderate_recreational_activity,144.4985809326172,2
+XGBoost,SMOTE,XGBoost Feature Importance (Gain),age,142.79583740234375,3
+XGBoost,SMOTE,XGBoost Feature Importance (Gain),walk_or_bicycle_transport,141.22315979003906,4
+XGBoost,SMOTE,XGBoost Feature Importance (Gain),ever_smoked_100_cigarettes,120.9322509765625,5
+XGBoost,SMOTE,XGBoost Feature Importance (Gain),moderate_work_activity,113.15511322021484,6
+XGBoost,SMOTE,XGBoost Feature Importance (Gain),alcohol_info_missing,60.600730895996094,7
+XGBoost,SMOTE,XGBoost Feature Importance (Gain),vigorous_work_activity,59.571189880371094,8
+XGBoost,SMOTE,XGBoost Feature Importance (Gain),waist_circumference,58.4868278503418,9
+XGBoost,SMOTE,XGBoost Feature Importance (Gain),average_alcoholic_drinks_per_day,33.29169464111328,10

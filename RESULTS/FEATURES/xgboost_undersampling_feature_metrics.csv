@@ -1,0 +1,31 @@
+Model,Strategy,Method,Feature,Importance,Rank
+XGBoost,Random Undersampling,SHAP,age,0.8137393914872353,1
+XGBoost,Random Undersampling,SHAP,waist_circumference,0.3475370172722969,2
+XGBoost,Random Undersampling,SHAP,race_ethnicity_3.0,0.2163493546545471,3
+XGBoost,Random Undersampling,SHAP,hdl_cholesterol_mg_dl,0.18462693714900108,4
+XGBoost,Random Undersampling,SHAP,total_cholesterol_mg_dl,0.1776876067005321,5
+XGBoost,Random Undersampling,SHAP,bmi,0.15214918214583806,6
+XGBoost,Random Undersampling,SHAP,mean_systolic_bp,0.1483448270255632,7
+XGBoost,Random Undersampling,SHAP,total_sugar_g,0.13584031625670293,8
+XGBoost,Random Undersampling,SHAP,triglycerides_mg_dl,0.13200338534812772,9
+XGBoost,Random Undersampling,SHAP,vigorous_recreational_activity,0.08967203038651571,10
+XGBoost,Random Undersampling,Permutation,age,0.1414963476253531,1
+XGBoost,Random Undersampling,Permutation,waist_circumference,0.028215897532692047,2
+XGBoost,Random Undersampling,Permutation,total_cholesterol_mg_dl,0.01748109126157541,3
+XGBoost,Random Undersampling,Permutation,race_ethnicity_3.0,0.015811304114014307,4
+XGBoost,Random Undersampling,Permutation,hdl_cholesterol_mg_dl,0.01190634429930743,5
+XGBoost,Random Undersampling,Permutation,total_sugar_g,0.010156966182949912,6
+XGBoost,Random Undersampling,Permutation,triglycerides_mg_dl,0.007220397349011282,7
+XGBoost,Random Undersampling,Permutation,bmi,0.003457464269146132,8
+XGBoost,Random Undersampling,Permutation,mean_systolic_bp,0.003318852885960116,9
+XGBoost,Random Undersampling,Permutation,mean_diastolic_bp,0.0024949626580173523,10
+XGBoost,Random Undersampling,XGBoost Feature Importance (Gain),age,45.73942184448242,1
+XGBoost,Random Undersampling,XGBoost Feature Importance (Gain),waist_circumference,20.376760482788086,2
+XGBoost,Random Undersampling,XGBoost Feature Importance (Gain),vigorous_recreational_activity,16.620988845825195,3
+XGBoost,Random Undersampling,XGBoost Feature Importance (Gain),race_ethnicity_3.0,15.589754104614258,4
+XGBoost,Random Undersampling,XGBoost Feature Importance (Gain),total_cholesterol_mg_dl,14.032690048217773,5
+XGBoost,Random Undersampling,XGBoost Feature Importance (Gain),bmi,12.610562324523926,6
+XGBoost,Random Undersampling,XGBoost Feature Importance (Gain),hdl_cholesterol_mg_dl,10.83706283569336,7
+XGBoost,Random Undersampling,XGBoost Feature Importance (Gain),triglycerides_mg_dl,9.323468208312988,8
+XGBoost,Random Undersampling,XGBoost Feature Importance (Gain),mean_systolic_bp,9.270381927490234,9
+XGBoost,Random Undersampling,XGBoost Feature Importance (Gain),total_sugar_g,8.597387313842773,10
