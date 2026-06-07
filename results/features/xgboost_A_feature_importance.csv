@@ -1,0 +1,109 @@
+Model,Strategy,Method,Rank,Feature,Importance
+XGBoost,SMOTE,SHAP,1,age,0.8433776497840881
+XGBoost,SMOTE,SHAP,2,waist_circumference,0.38466838002204895
+XGBoost,SMOTE,SHAP,3,average_alcoholic_drinks_per_day,0.3667336106300354
+XGBoost,SMOTE,SHAP,4,race_ethnicity_4.0,0.33290261030197144
+XGBoost,SMOTE,SHAP,5,alcohol_info_missing,0.2400093674659729
+XGBoost,SMOTE,SHAP,6,total_sugar_g,0.227600559592247
+XGBoost,SMOTE,SHAP,7,total_cholesterol_mg_dl,0.21501165628433228
+XGBoost,SMOTE,SHAP,8,hdl_cholesterol_mg_dl,0.20744504034519196
+XGBoost,SMOTE,SHAP,9,sleep_hours,0.2023744285106659
+XGBoost,SMOTE,SHAP,10,triglycerides_mg_dl,0.1996171921491623
+XGBoost,SMOTE,SHAP,11,mean_systolic_bp,0.1991308480501175
+XGBoost,SMOTE,SHAP,12,race_ethnicity_6.0,0.19052673876285553
+XGBoost,SMOTE,SHAP,13,income_poverty_ratio,0.1672951877117157
+XGBoost,SMOTE,SHAP,14,bmi,0.15169648826122284
+XGBoost,SMOTE,SHAP,15,mean_diastolic_bp,0.14743806421756744
+XGBoost,SMOTE,SHAP,16,moderate_recreational_activity,0.1415155529975891
+XGBoost,SMOTE,SHAP,17,education_level_2.0,0.1365000158548355
+XGBoost,SMOTE,SHAP,18,race_ethnicity_3.0,0.13012312352657318
+XGBoost,SMOTE,SHAP,19,vigorous_recreational_activity,0.13011698424816132
+XGBoost,SMOTE,SHAP,20,education_level_4.0,0.12302867323160172
+XGBoost,SMOTE,SHAP,21,moderate_work_activity,0.12265770137310028
+XGBoost,SMOTE,SHAP,22,ever_smoked_100_cigarettes,0.11971735209226608
+XGBoost,SMOTE,SHAP,23,fiber_g,0.11447440087795258
+XGBoost,SMOTE,SHAP,24,education_level_3.0,0.10795916616916656
+XGBoost,SMOTE,SHAP,25,walk_or_bicycle_transport,0.10504825413227081
+XGBoost,SMOTE,SHAP,26,race_ethnicity_2.0,0.10065184533596039
+XGBoost,SMOTE,SHAP,27,ldl_cholesterol_mg_dl,0.07588914036750793
+XGBoost,SMOTE,SHAP,28,total_fat_g,0.06714320927858353
+XGBoost,SMOTE,SHAP,29,education_level_5.0,0.0652419924736023
+XGBoost,SMOTE,SHAP,30,vigorous_work_activity,0.053152211010456085
+XGBoost,SMOTE,SHAP,31,sex_2.0,0.05134724825620651
+XGBoost,SMOTE,SHAP,32,energy_kcal,0.04475196823477745
+XGBoost,SMOTE,SHAP,33,carbohydrate_g,0.04417923837900162
+XGBoost,SMOTE,SHAP,34,cholesterol_mg,0.035036325454711914
+XGBoost,SMOTE,SHAP,35,protein_g,0.0274131428450346
+XGBoost,SMOTE,SHAP,36,race_ethnicity_7.0,0.02429981529712677
+XGBoost,SMOTE,Permutation,1,age,0.1209806500415875
+XGBoost,SMOTE,Permutation,2,race_ethnicity_4.0,0.03923016525474655
+XGBoost,SMOTE,Permutation,3,average_alcoholic_drinks_per_day,0.030955335406841904
+XGBoost,SMOTE,Permutation,4,waist_circumference,0.027084354117176142
+XGBoost,SMOTE,Permutation,5,race_ethnicity_3.0,0.022710954082708835
+XGBoost,SMOTE,Permutation,6,alcohol_info_missing,0.017819373998626035
+XGBoost,SMOTE,Permutation,7,total_cholesterol_mg_dl,0.016677156100638614
+XGBoost,SMOTE,Permutation,8,race_ethnicity_6.0,0.016018880257046723
+XGBoost,SMOTE,Permutation,9,hdl_cholesterol_mg_dl,0.013917304561027027
+XGBoost,SMOTE,Permutation,10,total_sugar_g,0.013221218481614172
+XGBoost,SMOTE,Permutation,11,triglycerides_mg_dl,0.010115831108326178
+XGBoost,SMOTE,Permutation,12,race_ethnicity_2.0,0.008853412141466416
+XGBoost,SMOTE,Permutation,13,education_level_4.0,0.008351011499235495
+XGBoost,SMOTE,Permutation,14,education_level_2.0,0.007776224711312185
+XGBoost,SMOTE,Permutation,15,education_level_3.0,0.00745749878471399
+XGBoost,SMOTE,Permutation,16,mean_systolic_bp,0.006159429822126467
+XGBoost,SMOTE,Permutation,17,bmi,0.0052843756954403355
+XGBoost,SMOTE,Permutation,18,income_poverty_ratio,0.005272427998835533
+XGBoost,SMOTE,Permutation,19,mean_diastolic_bp,0.00393238520918594
+XGBoost,SMOTE,Permutation,20,education_level_5.0,0.0032778445293306703
+XGBoost,SMOTE,Permutation,21,ldl_cholesterol_mg_dl,0.0031656025573379596
+XGBoost,SMOTE,Permutation,22,vigorous_recreational_activity,0.002092210632822322
+XGBoost,SMOTE,Permutation,23,fiber_g,0.001799950664460781
+XGBoost,SMOTE,Permutation,24,race_ethnicity_7.0,0.0015300413366164556
+XGBoost,SMOTE,Permutation,25,sleep_hours,0.001075431480804656
+XGBoost,SMOTE,Permutation,26,carbohydrate_g,0.0009537822062833101
+XGBoost,SMOTE,Permutation,27,energy_kcal,0.0009204855447352001
+XGBoost,SMOTE,Permutation,28,total_fat_g,0.0006832573910380779
+XGBoost,SMOTE,Permutation,29,vigorous_work_activity,0.0005532024895619769
+XGBoost,SMOTE,Permutation,30,ever_smoked_100_cigarettes,0.00043165579627403307
+XGBoost,SMOTE,Permutation,31,moderate_work_activity,0.0004116946950777856
+XGBoost,SMOTE,Permutation,32,protein_g,0.0003519682804343005
+XGBoost,SMOTE,Permutation,33,sex_2.0,9.205760575873856e-05
+XGBoost,SMOTE,Permutation,34,cholesterol_mg,7.920478062329872e-05
+XGBoost,SMOTE,Permutation,35,walk_or_bicycle_transport,-4.956483833928882e-05
+XGBoost,SMOTE,Permutation,36,moderate_recreational_activity,-0.00029706318376435115
+XGBoost,SMOTE,XGBoost Gain,1,vigorous_recreational_activity,0.10429102927446365
+XGBoost,SMOTE,XGBoost Gain,2,age,0.09658452123403549
+XGBoost,SMOTE,XGBoost Gain,3,moderate_recreational_activity,0.09210804104804993
+XGBoost,SMOTE,XGBoost Gain,4,walk_or_bicycle_transport,0.07821368426084518
+XGBoost,SMOTE,XGBoost Gain,5,ever_smoked_100_cigarettes,0.07515813410282135
+XGBoost,SMOTE,XGBoost Gain,6,moderate_work_activity,0.07259481400251389
+XGBoost,SMOTE,XGBoost Gain,7,average_alcoholic_drinks_per_day,0.03875032067298889
+XGBoost,SMOTE,XGBoost Gain,8,vigorous_work_activity,0.037288423627614975
+XGBoost,SMOTE,XGBoost Gain,9,waist_circumference,0.03506733104586601
+XGBoost,SMOTE,XGBoost Gain,10,alcohol_info_missing,0.03426758944988251
+XGBoost,SMOTE,XGBoost Gain,11,hdl_cholesterol_mg_dl,0.021374352276325226
+XGBoost,SMOTE,XGBoost Gain,12,sleep_hours,0.020715724676847458
+XGBoost,SMOTE,XGBoost Gain,13,race_ethnicity_4.0,0.020511947572231293
+XGBoost,SMOTE,XGBoost Gain,14,total_cholesterol_mg_dl,0.01911793276667595
+XGBoost,SMOTE,XGBoost Gain,15,race_ethnicity_3.0,0.019033437594771385
+XGBoost,SMOTE,XGBoost Gain,16,race_ethnicity_6.0,0.018292592838406563
+XGBoost,SMOTE,XGBoost Gain,17,bmi,0.01746397092938423
+XGBoost,SMOTE,XGBoost Gain,18,education_level_3.0,0.01731627993285656
+XGBoost,SMOTE,XGBoost Gain,19,income_poverty_ratio,0.01585197076201439
+XGBoost,SMOTE,XGBoost Gain,20,education_level_4.0,0.015583876520395279
+XGBoost,SMOTE,XGBoost Gain,21,triglycerides_mg_dl,0.014927617274224758
+XGBoost,SMOTE,XGBoost Gain,22,race_ethnicity_2.0,0.014845168218016624
+XGBoost,SMOTE,XGBoost Gain,23,education_level_5.0,0.014635036699473858
+XGBoost,SMOTE,XGBoost Gain,24,total_sugar_g,0.01384940929710865
+XGBoost,SMOTE,XGBoost Gain,25,education_level_2.0,0.013707817532122135
+XGBoost,SMOTE,XGBoost Gain,26,sex_2.0,0.01345272921025753
+XGBoost,SMOTE,XGBoost Gain,27,ldl_cholesterol_mg_dl,0.00907923374325037
+XGBoost,SMOTE,XGBoost Gain,28,race_ethnicity_7.0,0.008448295295238495
+XGBoost,SMOTE,XGBoost Gain,29,mean_systolic_bp,0.008089890703558922
+XGBoost,SMOTE,XGBoost Gain,30,mean_diastolic_bp,0.008084908127784729
+XGBoost,SMOTE,XGBoost Gain,31,fiber_g,0.006235908716917038
+XGBoost,SMOTE,XGBoost Gain,32,carbohydrate_g,0.005421226378530264
+XGBoost,SMOTE,XGBoost Gain,33,energy_kcal,0.005207286681979895
+XGBoost,SMOTE,XGBoost Gain,34,total_fat_g,0.0049913725815713406
+XGBoost,SMOTE,XGBoost Gain,35,cholesterol_mg,0.004928520414978266
+XGBoost,SMOTE,XGBoost Gain,36,protein_g,0.004509609658271074

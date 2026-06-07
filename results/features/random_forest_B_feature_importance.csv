@@ -1,0 +1,109 @@
+Model,Strategy,Method,Rank,Feature,Importance
+Random Forest,Undersampling,SHAP,1,age,0.11581509279694252
+Random Forest,Undersampling,SHAP,2,waist_circumference,0.055831122072618526
+Random Forest,Undersampling,SHAP,3,bmi,0.03803285978673514
+Random Forest,Undersampling,SHAP,4,mean_systolic_bp,0.03490223427649091
+Random Forest,Undersampling,SHAP,5,hdl_cholesterol_mg_dl,0.031664953996659785
+Random Forest,Undersampling,SHAP,6,total_cholesterol_mg_dl,0.029490686169592314
+Random Forest,Undersampling,SHAP,7,race_ethnicity_3.0,0.021558762744286534
+Random Forest,Undersampling,SHAP,8,vigorous_recreational_activity,0.020915079518752624
+Random Forest,Undersampling,SHAP,9,total_sugar_g,0.01992208487976835
+Random Forest,Undersampling,SHAP,10,triglycerides_mg_dl,0.018905222970397775
+Random Forest,Undersampling,SHAP,11,average_alcoholic_drinks_per_day,0.01349503766063921
+Random Forest,Undersampling,SHAP,12,ldl_cholesterol_mg_dl,0.012045255413123663
+Random Forest,Undersampling,SHAP,13,income_poverty_ratio,0.010690905476280113
+Random Forest,Undersampling,SHAP,14,carbohydrate_g,0.008227343996731359
+Random Forest,Undersampling,SHAP,15,alcohol_info_missing,0.007987936074723154
+Random Forest,Undersampling,SHAP,16,fiber_g,0.0074186432826850125
+Random Forest,Undersampling,SHAP,17,mean_diastolic_bp,0.007057580313415805
+Random Forest,Undersampling,SHAP,18,energy_kcal,0.006319749276759307
+Random Forest,Undersampling,SHAP,19,moderate_recreational_activity,0.005402308625057198
+Random Forest,Undersampling,SHAP,20,sleep_hours,0.005219414256551136
+Random Forest,Undersampling,SHAP,21,education_level_5.0,0.003999666925353192
+Random Forest,Undersampling,SHAP,22,cholesterol_mg,0.0031885486292108876
+Random Forest,Undersampling,SHAP,23,total_fat_g,0.003069891239349669
+Random Forest,Undersampling,SHAP,24,race_ethnicity_4.0,0.0028170838783100017
+Random Forest,Undersampling,SHAP,25,protein_g,0.002756994013760427
+Random Forest,Undersampling,SHAP,26,moderate_work_activity,0.0024842212424607438
+Random Forest,Undersampling,SHAP,27,race_ethnicity_6.0,0.0019152139371759296
+Random Forest,Undersampling,SHAP,28,sex_2.0,0.0018979224346945785
+Random Forest,Undersampling,SHAP,29,walk_or_bicycle_transport,0.0017323272480014842
+Random Forest,Undersampling,SHAP,30,education_level_4.0,0.001731623491282387
+Random Forest,Undersampling,SHAP,31,education_level_2.0,0.0017234903521998709
+Random Forest,Undersampling,SHAP,32,vigorous_work_activity,0.0016976479646958467
+Random Forest,Undersampling,SHAP,33,ever_smoked_100_cigarettes,0.0016673405320047437
+Random Forest,Undersampling,SHAP,34,education_level_3.0,0.0008552923580643963
+Random Forest,Undersampling,SHAP,35,race_ethnicity_2.0,0.0004083273879008755
+Random Forest,Undersampling,SHAP,36,race_ethnicity_7.0,0.0002443852259035097
+Random Forest,Undersampling,Permutation,1,age,0.11988940294825709
+Random Forest,Undersampling,Permutation,2,waist_circumference,0.023652891173621078
+Random Forest,Undersampling,Permutation,3,total_cholesterol_mg_dl,0.012385827087141916
+Random Forest,Undersampling,Permutation,4,hdl_cholesterol_mg_dl,0.011018298561111162
+Random Forest,Undersampling,Permutation,5,race_ethnicity_3.0,0.009638194782694337
+Random Forest,Undersampling,Permutation,6,total_sugar_g,0.0071658905088946515
+Random Forest,Undersampling,Permutation,7,triglycerides_mg_dl,0.00559774929532727
+Random Forest,Undersampling,Permutation,8,bmi,0.005223750186456488
+Random Forest,Undersampling,Permutation,9,mean_systolic_bp,0.004457263209928503
+Random Forest,Undersampling,Permutation,10,mean_diastolic_bp,0.003029187619386481
+Random Forest,Undersampling,Permutation,11,average_alcoholic_drinks_per_day,0.0023914943985819115
+Random Forest,Undersampling,Permutation,12,ldl_cholesterol_mg_dl,0.0022093946065925075
+Random Forest,Undersampling,Permutation,13,carbohydrate_g,0.0018207806890466194
+Random Forest,Undersampling,Permutation,14,vigorous_recreational_activity,0.0017103308715446853
+Random Forest,Undersampling,Permutation,15,income_poverty_ratio,0.001550231737040625
+Random Forest,Undersampling,Permutation,16,energy_kcal,0.0012285973307639086
+Random Forest,Undersampling,Permutation,17,race_ethnicity_4.0,0.0006769033887529585
+Random Forest,Undersampling,Permutation,18,fiber_g,0.0005225608717039476
+Random Forest,Undersampling,Permutation,19,race_ethnicity_6.0,0.0004985568630707204
+Random Forest,Undersampling,Permutation,20,alcohol_info_missing,0.0004968672898134907
+Random Forest,Undersampling,Permutation,21,sex_2.0,0.0002832328198157152
+Random Forest,Undersampling,Permutation,22,moderate_work_activity,0.0002517584837094022
+Random Forest,Undersampling,Permutation,23,total_fat_g,0.00013663820298921437
+Random Forest,Undersampling,Permutation,24,cholesterol_mg,0.000127357618454782
+Random Forest,Undersampling,Permutation,25,education_level_4.0,0.0001185356323759379
+Random Forest,Undersampling,Permutation,26,race_ethnicity_7.0,0.00010043306176260036
+Random Forest,Undersampling,Permutation,27,vigorous_work_activity,5.499560952319515e-05
+Random Forest,Undersampling,Permutation,28,sleep_hours,4.666842704110219e-05
+Random Forest,Undersampling,Permutation,29,education_level_3.0,4.484610159939395e-05
+Random Forest,Undersampling,Permutation,30,race_ethnicity_2.0,2.9108933546190262e-05
+Random Forest,Undersampling,Permutation,31,walk_or_bicycle_transport,6.903113593875743e-06
+Random Forest,Undersampling,Permutation,32,protein_g,-1.2261474495400826e-05
+Random Forest,Undersampling,Permutation,33,education_level_5.0,-1.6871595811579488e-05
+Random Forest,Undersampling,Permutation,34,moderate_recreational_activity,-2.8867565938028862e-05
+Random Forest,Undersampling,Permutation,35,ever_smoked_100_cigarettes,-5.34508568308667e-05
+Random Forest,Undersampling,Permutation,36,education_level_2.0,-0.00015732340700994608
+Random Forest,Undersampling,Mean Decrease Impurity,1,age,0.17762192914621985
+Random Forest,Undersampling,Mean Decrease Impurity,2,waist_circumference,0.10154700946655755
+Random Forest,Undersampling,Mean Decrease Impurity,3,bmi,0.06916175740048826
+Random Forest,Undersampling,Mean Decrease Impurity,4,mean_systolic_bp,0.05913387971710172
+Random Forest,Undersampling,Mean Decrease Impurity,5,total_cholesterol_mg_dl,0.05773644823940933
+Random Forest,Undersampling,Mean Decrease Impurity,6,hdl_cholesterol_mg_dl,0.05048894309207807
+Random Forest,Undersampling,Mean Decrease Impurity,7,total_sugar_g,0.04125881795139132
+Random Forest,Undersampling,Mean Decrease Impurity,8,mean_diastolic_bp,0.0346950274335894
+Random Forest,Undersampling,Mean Decrease Impurity,9,income_poverty_ratio,0.03297335796634548
+Random Forest,Undersampling,Mean Decrease Impurity,10,triglycerides_mg_dl,0.03201346650413016
+Random Forest,Undersampling,Mean Decrease Impurity,11,carbohydrate_g,0.031835137635662675
+Random Forest,Undersampling,Mean Decrease Impurity,12,fiber_g,0.030713961899999757
+Random Forest,Undersampling,Mean Decrease Impurity,13,energy_kcal,0.028900203220897307
+Random Forest,Undersampling,Mean Decrease Impurity,14,protein_g,0.028573072080966388
+Random Forest,Undersampling,Mean Decrease Impurity,15,cholesterol_mg,0.02829826089736295
+Random Forest,Undersampling,Mean Decrease Impurity,16,ldl_cholesterol_mg_dl,0.028256141766177512
+Random Forest,Undersampling,Mean Decrease Impurity,17,total_fat_g,0.02815259115968456
+Random Forest,Undersampling,Mean Decrease Impurity,18,vigorous_recreational_activity,0.02242682819643111
+Random Forest,Undersampling,Mean Decrease Impurity,19,sleep_hours,0.02137566844251984
+Random Forest,Undersampling,Mean Decrease Impurity,20,average_alcoholic_drinks_per_day,0.017282907614262412
+Random Forest,Undersampling,Mean Decrease Impurity,21,race_ethnicity_3.0,0.015047587932085462
+Random Forest,Undersampling,Mean Decrease Impurity,22,alcohol_info_missing,0.006210440703339324
+Random Forest,Undersampling,Mean Decrease Impurity,23,moderate_recreational_activity,0.005948995173532241
+Random Forest,Undersampling,Mean Decrease Impurity,24,sex_2.0,0.004993168711564267
+Random Forest,Undersampling,Mean Decrease Impurity,25,education_level_5.0,0.0048788607187443414
+Random Forest,Undersampling,Mean Decrease Impurity,26,moderate_work_activity,0.0048247856416015
+Random Forest,Undersampling,Mean Decrease Impurity,27,race_ethnicity_4.0,0.004418528938348322
+Random Forest,Undersampling,Mean Decrease Impurity,28,education_level_4.0,0.004264487088971091
+Random Forest,Undersampling,Mean Decrease Impurity,29,ever_smoked_100_cigarettes,0.004255472797212133
+Random Forest,Undersampling,Mean Decrease Impurity,30,walk_or_bicycle_transport,0.004193798728262578
+Random Forest,Undersampling,Mean Decrease Impurity,31,vigorous_work_activity,0.004189784650122833
+Random Forest,Undersampling,Mean Decrease Impurity,32,education_level_3.0,0.0039007251972682875
+Random Forest,Undersampling,Mean Decrease Impurity,33,education_level_2.0,0.003632030455232396
+Random Forest,Undersampling,Mean Decrease Impurity,34,race_ethnicity_6.0,0.003356905566619124
+Random Forest,Undersampling,Mean Decrease Impurity,35,race_ethnicity_2.0,0.0024995913398997657
+Random Forest,Undersampling,Mean Decrease Impurity,36,race_ethnicity_7.0,0.0009394265259207783

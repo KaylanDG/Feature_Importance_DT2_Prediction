@@ -1,0 +1,109 @@
+Model,Strategy,Method,Rank,Feature,Importance
+Decision Tree,Undersampling,SHAP,1,age,0.18939840419760798
+Decision Tree,Undersampling,SHAP,2,waist_circumference,0.09580257810238073
+Decision Tree,Undersampling,SHAP,3,total_cholesterol_mg_dl,0.048626455626337814
+Decision Tree,Undersampling,SHAP,4,race_ethnicity_3.0,0.03585372249907373
+Decision Tree,Undersampling,SHAP,5,total_sugar_g,0.012998581153178543
+Decision Tree,Undersampling,SHAP,6,hdl_cholesterol_mg_dl,0.010055308152929697
+Decision Tree,Undersampling,SHAP,7,income_poverty_ratio,0.005306360734570276
+Decision Tree,Undersampling,SHAP,8,triglycerides_mg_dl,0.004872835102917012
+Decision Tree,Undersampling,SHAP,9,mean_diastolic_bp,0.0041618053557337205
+Decision Tree,Undersampling,SHAP,10,fiber_g,0.002554539726509721
+Decision Tree,Undersampling,SHAP,11,mean_systolic_bp,0.0012078020130967758
+Decision Tree,Undersampling,SHAP,12,race_ethnicity_2.0,0.0010038499455272273
+Decision Tree,Undersampling,SHAP,13,race_ethnicity_4.0,0.0
+Decision Tree,Undersampling,SHAP,14,race_ethnicity_6.0,0.0
+Decision Tree,Undersampling,SHAP,15,education_level_4.0,0.0
+Decision Tree,Undersampling,SHAP,16,race_ethnicity_7.0,0.0
+Decision Tree,Undersampling,SHAP,17,education_level_2.0,0.0
+Decision Tree,Undersampling,SHAP,18,alcohol_info_missing,0.0
+Decision Tree,Undersampling,SHAP,19,education_level_3.0,0.0
+Decision Tree,Undersampling,SHAP,20,cholesterol_mg,0.0
+Decision Tree,Undersampling,SHAP,21,total_fat_g,0.0
+Decision Tree,Undersampling,SHAP,22,sex_2.0,0.0
+Decision Tree,Undersampling,SHAP,23,energy_kcal,0.0
+Decision Tree,Undersampling,SHAP,24,carbohydrate_g,0.0
+Decision Tree,Undersampling,SHAP,25,protein_g,0.0
+Decision Tree,Undersampling,SHAP,26,ldl_cholesterol_mg_dl,0.0
+Decision Tree,Undersampling,SHAP,27,sleep_hours,0.0
+Decision Tree,Undersampling,SHAP,28,moderate_recreational_activity,0.0
+Decision Tree,Undersampling,SHAP,29,vigorous_recreational_activity,0.0
+Decision Tree,Undersampling,SHAP,30,walk_or_bicycle_transport,0.0
+Decision Tree,Undersampling,SHAP,31,moderate_work_activity,0.0
+Decision Tree,Undersampling,SHAP,32,vigorous_work_activity,0.0
+Decision Tree,Undersampling,SHAP,33,average_alcoholic_drinks_per_day,0.0
+Decision Tree,Undersampling,SHAP,34,ever_smoked_100_cigarettes,0.0
+Decision Tree,Undersampling,SHAP,35,bmi,0.0
+Decision Tree,Undersampling,SHAP,36,education_level_5.0,0.0
+Decision Tree,Undersampling,Permutation,1,age,0.17455672838758224
+Decision Tree,Undersampling,Permutation,2,waist_circumference,0.061255900834600883
+Decision Tree,Undersampling,Permutation,3,total_cholesterol_mg_dl,0.028860379217476567
+Decision Tree,Undersampling,Permutation,4,race_ethnicity_3.0,0.011999663050818971
+Decision Tree,Undersampling,Permutation,5,total_sugar_g,0.006332140414157822
+Decision Tree,Undersampling,Permutation,6,hdl_cholesterol_mg_dl,0.0029169335790133477
+Decision Tree,Undersampling,Permutation,7,mean_diastolic_bp,0.0022638592073777387
+Decision Tree,Undersampling,Permutation,8,triglycerides_mg_dl,0.0007509549709417085
+Decision Tree,Undersampling,Permutation,9,income_poverty_ratio,0.0006967860454764885
+Decision Tree,Undersampling,Permutation,10,mean_systolic_bp,0.00026648794199842787
+Decision Tree,Undersampling,Permutation,11,race_ethnicity_2.0,7.980216545362406e-05
+Decision Tree,Undersampling,Permutation,12,fiber_g,2.0274879086568108e-06
+Decision Tree,Undersampling,Permutation,13,race_ethnicity_4.0,0.0
+Decision Tree,Undersampling,Permutation,14,race_ethnicity_6.0,0.0
+Decision Tree,Undersampling,Permutation,15,education_level_4.0,0.0
+Decision Tree,Undersampling,Permutation,16,race_ethnicity_7.0,0.0
+Decision Tree,Undersampling,Permutation,17,education_level_2.0,0.0
+Decision Tree,Undersampling,Permutation,18,alcohol_info_missing,0.0
+Decision Tree,Undersampling,Permutation,19,education_level_3.0,0.0
+Decision Tree,Undersampling,Permutation,20,cholesterol_mg,0.0
+Decision Tree,Undersampling,Permutation,21,total_fat_g,0.0
+Decision Tree,Undersampling,Permutation,22,sex_2.0,0.0
+Decision Tree,Undersampling,Permutation,23,energy_kcal,0.0
+Decision Tree,Undersampling,Permutation,24,carbohydrate_g,0.0
+Decision Tree,Undersampling,Permutation,25,protein_g,0.0
+Decision Tree,Undersampling,Permutation,26,ldl_cholesterol_mg_dl,0.0
+Decision Tree,Undersampling,Permutation,27,sleep_hours,0.0
+Decision Tree,Undersampling,Permutation,28,moderate_recreational_activity,0.0
+Decision Tree,Undersampling,Permutation,29,vigorous_recreational_activity,0.0
+Decision Tree,Undersampling,Permutation,30,walk_or_bicycle_transport,0.0
+Decision Tree,Undersampling,Permutation,31,moderate_work_activity,0.0
+Decision Tree,Undersampling,Permutation,32,vigorous_work_activity,0.0
+Decision Tree,Undersampling,Permutation,33,average_alcoholic_drinks_per_day,0.0
+Decision Tree,Undersampling,Permutation,34,ever_smoked_100_cigarettes,0.0
+Decision Tree,Undersampling,Permutation,35,bmi,0.0
+Decision Tree,Undersampling,Permutation,36,education_level_5.0,0.0
+Decision Tree,Undersampling,Gini Importance,1,age,0.505838441956367
+Decision Tree,Undersampling,Gini Importance,2,waist_circumference,0.26864014069585
+Decision Tree,Undersampling,Gini Importance,3,total_cholesterol_mg_dl,0.09060182965985653
+Decision Tree,Undersampling,Gini Importance,4,race_ethnicity_3.0,0.047727729094289226
+Decision Tree,Undersampling,Gini Importance,5,total_sugar_g,0.03451154840205846
+Decision Tree,Undersampling,Gini Importance,6,hdl_cholesterol_mg_dl,0.014602287696406842
+Decision Tree,Undersampling,Gini Importance,7,triglycerides_mg_dl,0.011367488964253348
+Decision Tree,Undersampling,Gini Importance,8,mean_diastolic_bp,0.009265600194899947
+Decision Tree,Undersampling,Gini Importance,9,income_poverty_ratio,0.006303617144543166
+Decision Tree,Undersampling,Gini Importance,10,race_ethnicity_2.0,0.004455702084665972
+Decision Tree,Undersampling,Gini Importance,11,fiber_g,0.003941228549825431
+Decision Tree,Undersampling,Gini Importance,12,mean_systolic_bp,0.002744385556984132
+Decision Tree,Undersampling,Gini Importance,13,race_ethnicity_4.0,0.0
+Decision Tree,Undersampling,Gini Importance,14,race_ethnicity_6.0,0.0
+Decision Tree,Undersampling,Gini Importance,15,education_level_4.0,0.0
+Decision Tree,Undersampling,Gini Importance,16,race_ethnicity_7.0,0.0
+Decision Tree,Undersampling,Gini Importance,17,education_level_2.0,0.0
+Decision Tree,Undersampling,Gini Importance,18,alcohol_info_missing,0.0
+Decision Tree,Undersampling,Gini Importance,19,education_level_3.0,0.0
+Decision Tree,Undersampling,Gini Importance,20,cholesterol_mg,0.0
+Decision Tree,Undersampling,Gini Importance,21,total_fat_g,0.0
+Decision Tree,Undersampling,Gini Importance,22,sex_2.0,0.0
+Decision Tree,Undersampling,Gini Importance,23,energy_kcal,0.0
+Decision Tree,Undersampling,Gini Importance,24,carbohydrate_g,0.0
+Decision Tree,Undersampling,Gini Importance,25,protein_g,0.0
+Decision Tree,Undersampling,Gini Importance,26,ldl_cholesterol_mg_dl,0.0
+Decision Tree,Undersampling,Gini Importance,27,sleep_hours,0.0
+Decision Tree,Undersampling,Gini Importance,28,moderate_recreational_activity,0.0
+Decision Tree,Undersampling,Gini Importance,29,vigorous_recreational_activity,0.0
+Decision Tree,Undersampling,Gini Importance,30,walk_or_bicycle_transport,0.0
+Decision Tree,Undersampling,Gini Importance,31,moderate_work_activity,0.0
+Decision Tree,Undersampling,Gini Importance,32,vigorous_work_activity,0.0
+Decision Tree,Undersampling,Gini Importance,33,average_alcoholic_drinks_per_day,0.0
+Decision Tree,Undersampling,Gini Importance,34,ever_smoked_100_cigarettes,0.0
+Decision Tree,Undersampling,Gini Importance,35,bmi,0.0
+Decision Tree,Undersampling,Gini Importance,36,education_level_5.0,0.0

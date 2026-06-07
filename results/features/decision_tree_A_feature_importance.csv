@@ -1,0 +1,109 @@
+Model,Strategy,Method,Rank,Feature,Importance
+Decision Tree,SMOTE,SHAP,1,age,0.18154825726005122
+Decision Tree,SMOTE,SHAP,2,waist_circumference,0.10006675026776748
+Decision Tree,SMOTE,SHAP,3,total_cholesterol_mg_dl,0.05739339062340431
+Decision Tree,SMOTE,SHAP,4,vigorous_recreational_activity,0.04052448177010429
+Decision Tree,SMOTE,SHAP,5,income_poverty_ratio,0.022361976834951697
+Decision Tree,SMOTE,SHAP,6,vigorous_work_activity,0.012013148285263234
+Decision Tree,SMOTE,SHAP,7,hdl_cholesterol_mg_dl,0.0036050680356095543
+Decision Tree,SMOTE,SHAP,8,total_sugar_g,0.002745830510341972
+Decision Tree,SMOTE,SHAP,9,carbohydrate_g,0.002712296081414784
+Decision Tree,SMOTE,SHAP,10,fiber_g,0.002349937178223034
+Decision Tree,SMOTE,SHAP,11,average_alcoholic_drinks_per_day,0.002050747518132969
+Decision Tree,SMOTE,SHAP,12,moderate_work_activity,0.0019335727890859894
+Decision Tree,SMOTE,SHAP,13,bmi,0.0016971650155971066
+Decision Tree,SMOTE,SHAP,14,ever_smoked_100_cigarettes,0.0003077971494003152
+Decision Tree,SMOTE,SHAP,15,race_ethnicity_3.0,0.0
+Decision Tree,SMOTE,SHAP,16,race_ethnicity_2.0,0.0
+Decision Tree,SMOTE,SHAP,17,race_ethnicity_7.0,0.0
+Decision Tree,SMOTE,SHAP,18,race_ethnicity_4.0,0.0
+Decision Tree,SMOTE,SHAP,19,race_ethnicity_6.0,0.0
+Decision Tree,SMOTE,SHAP,20,alcohol_info_missing,0.0
+Decision Tree,SMOTE,SHAP,21,education_level_2.0,0.0
+Decision Tree,SMOTE,SHAP,22,education_level_3.0,0.0
+Decision Tree,SMOTE,SHAP,23,education_level_4.0,0.0
+Decision Tree,SMOTE,SHAP,24,sex_2.0,0.0
+Decision Tree,SMOTE,SHAP,25,energy_kcal,0.0
+Decision Tree,SMOTE,SHAP,26,cholesterol_mg,0.0
+Decision Tree,SMOTE,SHAP,27,total_fat_g,0.0
+Decision Tree,SMOTE,SHAP,28,protein_g,0.0
+Decision Tree,SMOTE,SHAP,29,ldl_cholesterol_mg_dl,0.0
+Decision Tree,SMOTE,SHAP,30,triglycerides_mg_dl,0.0
+Decision Tree,SMOTE,SHAP,31,sleep_hours,0.0
+Decision Tree,SMOTE,SHAP,32,moderate_recreational_activity,0.0
+Decision Tree,SMOTE,SHAP,33,walk_or_bicycle_transport,0.0
+Decision Tree,SMOTE,SHAP,34,mean_diastolic_bp,0.0
+Decision Tree,SMOTE,SHAP,35,mean_systolic_bp,0.0
+Decision Tree,SMOTE,SHAP,36,education_level_5.0,0.0
+Decision Tree,SMOTE,Permutation,1,age,0.14806610841557136
+Decision Tree,SMOTE,Permutation,2,waist_circumference,0.06011160114099299
+Decision Tree,SMOTE,Permutation,3,total_cholesterol_mg_dl,0.02209114620167042
+Decision Tree,SMOTE,Permutation,4,vigorous_recreational_activity,0.01318947864113903
+Decision Tree,SMOTE,Permutation,5,income_poverty_ratio,0.0037532542387772707
+Decision Tree,SMOTE,Permutation,6,vigorous_work_activity,0.0029475329575400834
+Decision Tree,SMOTE,Permutation,7,bmi,0.0016609711956724117
+Decision Tree,SMOTE,Permutation,8,hdl_cholesterol_mg_dl,0.0008867001137807306
+Decision Tree,SMOTE,Permutation,9,moderate_work_activity,0.0008717292878835326
+Decision Tree,SMOTE,Permutation,10,ever_smoked_100_cigarettes,0.000503770403407372
+Decision Tree,SMOTE,Permutation,11,total_sugar_g,0.00013293924439388704
+Decision Tree,SMOTE,Permutation,12,fiber_g,6.560975009281544e-05
+Decision Tree,SMOTE,Permutation,13,average_alcoholic_drinks_per_day,1.2913167037831298e-06
+Decision Tree,SMOTE,Permutation,14,race_ethnicity_3.0,0.0
+Decision Tree,SMOTE,Permutation,15,sex_2.0,0.0
+Decision Tree,SMOTE,Permutation,16,race_ethnicity_2.0,0.0
+Decision Tree,SMOTE,Permutation,17,race_ethnicity_7.0,0.0
+Decision Tree,SMOTE,Permutation,18,race_ethnicity_4.0,0.0
+Decision Tree,SMOTE,Permutation,19,race_ethnicity_6.0,0.0
+Decision Tree,SMOTE,Permutation,20,cholesterol_mg,0.0
+Decision Tree,SMOTE,Permutation,21,education_level_2.0,0.0
+Decision Tree,SMOTE,Permutation,22,education_level_3.0,0.0
+Decision Tree,SMOTE,Permutation,23,education_level_4.0,0.0
+Decision Tree,SMOTE,Permutation,24,alcohol_info_missing,0.0
+Decision Tree,SMOTE,Permutation,25,energy_kcal,0.0
+Decision Tree,SMOTE,Permutation,26,total_fat_g,0.0
+Decision Tree,SMOTE,Permutation,27,protein_g,0.0
+Decision Tree,SMOTE,Permutation,28,ldl_cholesterol_mg_dl,0.0
+Decision Tree,SMOTE,Permutation,29,triglycerides_mg_dl,0.0
+Decision Tree,SMOTE,Permutation,30,sleep_hours,0.0
+Decision Tree,SMOTE,Permutation,31,moderate_recreational_activity,0.0
+Decision Tree,SMOTE,Permutation,32,walk_or_bicycle_transport,0.0
+Decision Tree,SMOTE,Permutation,33,mean_diastolic_bp,0.0
+Decision Tree,SMOTE,Permutation,34,mean_systolic_bp,0.0
+Decision Tree,SMOTE,Permutation,35,education_level_5.0,0.0
+Decision Tree,SMOTE,Permutation,36,carbohydrate_g,-0.00016147492987068636
+Decision Tree,SMOTE,Gini Importance,1,age,0.575567444794338
+Decision Tree,SMOTE,Gini Importance,2,waist_circumference,0.20080153486274738
+Decision Tree,SMOTE,Gini Importance,3,total_cholesterol_mg_dl,0.07527084195352413
+Decision Tree,SMOTE,Gini Importance,4,vigorous_recreational_activity,0.07148354580665396
+Decision Tree,SMOTE,Gini Importance,5,income_poverty_ratio,0.03868813212498835
+Decision Tree,SMOTE,Gini Importance,6,vigorous_work_activity,0.014934747408104463
+Decision Tree,SMOTE,Gini Importance,7,hdl_cholesterol_mg_dl,0.004673349880682822
+Decision Tree,SMOTE,Gini Importance,8,average_alcoholic_drinks_per_day,0.004134163507817634
+Decision Tree,SMOTE,Gini Importance,9,total_sugar_g,0.0037587869965871987
+Decision Tree,SMOTE,Gini Importance,10,carbohydrate_g,0.0029174159467597015
+Decision Tree,SMOTE,Gini Importance,11,moderate_work_activity,0.002837001582033773
+Decision Tree,SMOTE,Gini Importance,12,bmi,0.0022025467652058684
+Decision Tree,SMOTE,Gini Importance,13,fiber_g,0.0019303276186364634
+Decision Tree,SMOTE,Gini Importance,14,ever_smoked_100_cigarettes,0.00080016075192035
+Decision Tree,SMOTE,Gini Importance,15,race_ethnicity_3.0,0.0
+Decision Tree,SMOTE,Gini Importance,16,race_ethnicity_2.0,0.0
+Decision Tree,SMOTE,Gini Importance,17,race_ethnicity_7.0,0.0
+Decision Tree,SMOTE,Gini Importance,18,race_ethnicity_4.0,0.0
+Decision Tree,SMOTE,Gini Importance,19,race_ethnicity_6.0,0.0
+Decision Tree,SMOTE,Gini Importance,20,alcohol_info_missing,0.0
+Decision Tree,SMOTE,Gini Importance,21,education_level_2.0,0.0
+Decision Tree,SMOTE,Gini Importance,22,education_level_3.0,0.0
+Decision Tree,SMOTE,Gini Importance,23,education_level_4.0,0.0
+Decision Tree,SMOTE,Gini Importance,24,sex_2.0,0.0
+Decision Tree,SMOTE,Gini Importance,25,energy_kcal,0.0
+Decision Tree,SMOTE,Gini Importance,26,cholesterol_mg,0.0
+Decision Tree,SMOTE,Gini Importance,27,total_fat_g,0.0
+Decision Tree,SMOTE,Gini Importance,28,protein_g,0.0
+Decision Tree,SMOTE,Gini Importance,29,ldl_cholesterol_mg_dl,0.0
+Decision Tree,SMOTE,Gini Importance,30,triglycerides_mg_dl,0.0
+Decision Tree,SMOTE,Gini Importance,31,sleep_hours,0.0
+Decision Tree,SMOTE,Gini Importance,32,moderate_recreational_activity,0.0
+Decision Tree,SMOTE,Gini Importance,33,walk_or_bicycle_transport,0.0
+Decision Tree,SMOTE,Gini Importance,34,mean_diastolic_bp,0.0
+Decision Tree,SMOTE,Gini Importance,35,mean_systolic_bp,0.0
+Decision Tree,SMOTE,Gini Importance,36,education_level_5.0,0.0
