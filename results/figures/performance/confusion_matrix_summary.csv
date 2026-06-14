@@ -1,0 +1,9 @@
+Model,Strategy,TN,FP,FN,TP
+Logistic Regression,SMOTE,3229,989,241,741
+Logistic Regression,Undersampling,3193,1025,221,761
+Random Forest,SMOTE,3978,240,608,374
+Random Forest,Undersampling,3146,1072,191,791
+XGBoost,SMOTE,3950,268,563,419
+XGBoost,Undersampling,3179,1039,202,780
+Decision Tree,SMOTE,3626,592,460,522
+Decision Tree,Undersampling,2973,1245,221,761

@@ -1,0 +1,9 @@
+Model,Comparison,Top-10 Overlap,Jaccard Similarity,Spearman ρ
+Logistic Regression,SHAP vs Permutation,10/10,1.0,0.889
+Logistic Regression,SHAP vs Coefficient,7/10,0.538,0.943
+Random Forest,SHAP vs Permutation,8/10,0.667,0.826
+Random Forest,SHAP vs Mean Decrease Impurity,10/10,1.0,0.926
+XGBoost,SHAP vs Permutation,10/10,1.0,0.785
+XGBoost,SHAP vs XGBoost Gain,8/10,0.667,0.879
+Decision Tree,SHAP vs Permutation,10/10,1.0,0.76
+Decision Tree,SHAP vs Gini Importance,10/10,1.0,0.982

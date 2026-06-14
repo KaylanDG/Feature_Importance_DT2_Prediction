@@ -1,0 +1,15 @@
+Feature,Model_Count,Models,Mean_Rank,Best_Rank,Worst_Rank,Mean_SHAP
+age,4,"Decision Tree, Logistic Regression, Random Forest, XGBoost",2.0,1,3,0.32455
+family_history_diabetes,4,"Decision Tree, Logistic Regression, Random Forest, XGBoost",2.0,1,3,0.26271
+ever_told_hypertension,4,"Decision Tree, Logistic Regression, Random Forest, XGBoost",3.75,1,9,0.20645
+waist_circumference,4,"Decision Tree, Logistic Regression, Random Forest, XGBoost",5.25,4,8,0.15245
+ever_told_high_cholesterol,4,"Decision Tree, Logistic Regression, Random Forest, XGBoost",5.25,4,8,0.13081
+hdl_cholesterol_mg_dl,4,"Decision Tree, Logistic Regression, Random Forest, XGBoost",6.5,5,9,0.11709
+total_cholesterol_mg_dl,4,"Decision Tree, Logistic Regression, Random Forest, XGBoost",8.5,7,10,0.08325
+self_rated_health,3,"Decision Tree, Logistic Regression, XGBoost",6.0,2,10,0.18829
+bmi,2,"Decision Tree, Random Forest",6.0,6,6,0.02004
+race_ethnicity_4.0,2,"Logistic Regression, XGBoost",7.5,7,8,0.17722
+education_level,2,"Decision Tree, Random Forest",9.5,9,10,0.01129
+total_sugar_g,1,Logistic Regression,6.0,6,6,0.14254
+vigorous_recreational_activity,1,Random Forest,7.0,7,7,0.01944
+race_ethnicity_6.0,1,XGBoost,10.0,10,10,0.19094
