@@ -1,0 +1,130 @@
+Model,Strategy,Method,Rank,Feature,Importance
+XGBoost,Undersampling,SHAP,1,age,0.7214366793632507
+XGBoost,Undersampling,SHAP,2,family_history_diabetes,0.5015535354614258
+XGBoost,Undersampling,SHAP,3,waist_circumference,0.32023945450782776
+XGBoost,Undersampling,SHAP,4,self_rated_health,0.29523465037345886
+XGBoost,Undersampling,SHAP,5,hdl_cholesterol_mg_dl,0.24080422520637512
+XGBoost,Undersampling,SHAP,6,total_sugar_g,0.20985658466815948
+XGBoost,Undersampling,SHAP,7,total_cholesterol_mg_dl,0.20378443598747253
+XGBoost,Undersampling,SHAP,8,race_ethnicity_3.0,0.1893673539161682
+XGBoost,Undersampling,SHAP,9,healthcare_visits_past_12_months,0.17237582802772522
+XGBoost,Undersampling,SHAP,10,ever_told_high_cholesterol,0.16593050956726074
+XGBoost,Undersampling,SHAP,11,ever_told_hypertension,0.1655619591474533
+XGBoost,Undersampling,SHAP,12,mean_systolic_bp,0.16184881329536438
+XGBoost,Undersampling,SHAP,13,bmi,0.15328092873096466
+XGBoost,Undersampling,SHAP,14,mean_diastolic_bp,0.0947771742939949
+XGBoost,Undersampling,SHAP,15,fiber_g,0.08456049859523773
+XGBoost,Undersampling,SHAP,16,vigorous_recreational_activity,0.07611480355262756
+XGBoost,Undersampling,SHAP,17,race_ethnicity_6.0,0.06112843379378319
+XGBoost,Undersampling,SHAP,18,income_poverty_ratio,0.05950194224715233
+XGBoost,Undersampling,SHAP,19,physical_activity_moderate_equivalent_min_week,0.051133107393980026
+XGBoost,Undersampling,SHAP,20,household_food_security_category,0.0478433296084404
+XGBoost,Undersampling,SHAP,21,education_level,0.04248951002955437
+XGBoost,Undersampling,SHAP,22,cholesterol_mg,0.03877006098628044
+XGBoost,Undersampling,SHAP,23,total_fat_g,0.035541824996471405
+XGBoost,Undersampling,SHAP,24,sedentary_minutes_per_day,0.03537674993276596
+XGBoost,Undersampling,SHAP,25,carbohydrate_g,0.03215708211064339
+XGBoost,Undersampling,SHAP,26,energy_kcal,0.02932177297770977
+XGBoost,Undersampling,SHAP,27,sex,0.025989852845668793
+XGBoost,Undersampling,SHAP,28,protein_g,0.01514819823205471
+XGBoost,Undersampling,SHAP,29,ever_smoked_100_cigarettes,0.013444926589727402
+XGBoost,Undersampling,SHAP,30,sleep_hours,0.011274164542555809
+XGBoost,Undersampling,SHAP,31,has_health_insurance,0.011184302158653736
+XGBoost,Undersampling,SHAP,32,moderate_recreational_activity,0.0070589338429272175
+XGBoost,Undersampling,SHAP,33,adult_food_security_category,0.006962386425584555
+XGBoost,Undersampling,SHAP,34,phq9_score,0.006454762537032366
+XGBoost,Undersampling,SHAP,35,race_ethnicity_4.0,0.004034136421978474
+XGBoost,Undersampling,SHAP,36,ever_almost_daily_heavy_drinking,0.0033246451057493687
+XGBoost,Undersampling,SHAP,37,vigorous_work_activity,0.0031393689569085836
+XGBoost,Undersampling,SHAP,38,trouble_sleeping_reported_to_doctor,0.0027722616214305162
+XGBoost,Undersampling,SHAP,39,insurance_gap_past_12_months,0.0021624888759106398
+XGBoost,Undersampling,SHAP,40,moderate_work_activity,0.0011078595416620374
+XGBoost,Undersampling,SHAP,41,usual_place_for_healthcare,0.0010653926292434335
+XGBoost,Undersampling,SHAP,42,walk_or_bicycle_transport,0.0001784518244676292
+XGBoost,Undersampling,SHAP,43,race_ethnicity_2.0,0.0
+XGBoost,Undersampling,Permutation,1,age,0.0771326141770455
+XGBoost,Undersampling,Permutation,2,family_history_diabetes,0.031147816940104416
+XGBoost,Undersampling,Permutation,3,waist_circumference,0.013276506756515311
+XGBoost,Undersampling,Permutation,4,self_rated_health,0.013129847207052708
+XGBoost,Undersampling,Permutation,5,total_cholesterol_mg_dl,0.010851352075625842
+XGBoost,Undersampling,Permutation,6,hdl_cholesterol_mg_dl,0.010261466713792761
+XGBoost,Undersampling,Permutation,7,total_sugar_g,0.008180680412430825
+XGBoost,Undersampling,Permutation,8,race_ethnicity_3.0,0.005416734265619427
+XGBoost,Undersampling,Permutation,9,healthcare_visits_past_12_months,0.005030327787322075
+XGBoost,Undersampling,Permutation,10,ever_told_high_cholesterol,0.004142385364247314
+XGBoost,Undersampling,Permutation,11,mean_systolic_bp,0.0026716433981414265
+XGBoost,Undersampling,Permutation,12,ever_told_hypertension,0.0024770368771601047
+XGBoost,Undersampling,Permutation,13,bmi,0.0018585245659422933
+XGBoost,Undersampling,Permutation,14,race_ethnicity_6.0,0.0015615116670964102
+XGBoost,Undersampling,Permutation,15,mean_diastolic_bp,0.0014135786016480523
+XGBoost,Undersampling,Permutation,16,fiber_g,0.0008514631310482801
+XGBoost,Undersampling,Permutation,17,physical_activity_moderate_equivalent_min_week,0.0005213569234364668
+XGBoost,Undersampling,Permutation,18,cholesterol_mg,0.0005007030291090675
+XGBoost,Undersampling,Permutation,19,energy_kcal,0.0003902028837713345
+XGBoost,Undersampling,Permutation,20,vigorous_recreational_activity,0.000229100093769391
+XGBoost,Undersampling,Permutation,21,phq9_score,0.00019039969329387452
+XGBoost,Undersampling,Permutation,22,total_fat_g,0.00017765246219528797
+XGBoost,Undersampling,Permutation,23,carbohydrate_g,0.00016619081832393024
+XGBoost,Undersampling,Permutation,24,ever_smoked_100_cigarettes,0.00011450779753917062
+XGBoost,Undersampling,Permutation,25,sex,0.00010670977548454252
+XGBoost,Undersampling,Permutation,26,sleep_hours,6.960277889638267e-05
+XGBoost,Undersampling,Permutation,27,race_ethnicity_4.0,5.030689924570009e-05
+XGBoost,Undersampling,Permutation,28,ever_almost_daily_heavy_drinking,4.706577088393615e-05
+XGBoost,Undersampling,Permutation,29,trouble_sleeping_reported_to_doctor,1.9042383577716483e-05
+XGBoost,Undersampling,Permutation,30,insurance_gap_past_12_months,1.1811709876857757e-05
+XGBoost,Undersampling,Permutation,31,walk_or_bicycle_transport,6.1080482347264375e-06
+XGBoost,Undersampling,Permutation,32,race_ethnicity_2.0,0.0
+XGBoost,Undersampling,Permutation,33,moderate_work_activity,-4.478430622728568e-06
+XGBoost,Undersampling,Permutation,34,usual_place_for_healthcare,-2.0521110670101984e-05
+XGBoost,Undersampling,Permutation,35,has_health_insurance,-2.2355939388857272e-05
+XGBoost,Undersampling,Permutation,36,vigorous_work_activity,-2.4812437048488124e-05
+XGBoost,Undersampling,Permutation,37,protein_g,-2.7389647123843286e-05
+XGBoost,Undersampling,Permutation,38,sedentary_minutes_per_day,-4.986026330759952e-05
+XGBoost,Undersampling,Permutation,39,adult_food_security_category,-5.0759570804603805e-05
+XGBoost,Undersampling,Permutation,40,moderate_recreational_activity,-8.312256945551822e-05
+XGBoost,Undersampling,Permutation,41,household_food_security_category,-8.494532693270051e-05
+XGBoost,Undersampling,Permutation,42,income_poverty_ratio,-0.0003301424213365711
+XGBoost,Undersampling,Permutation,43,education_level,-0.0003678046950369884
+XGBoost,Undersampling,XGBoost Gain,1,ever_told_hypertension,0.26796820759773254
+XGBoost,Undersampling,XGBoost Gain,2,age,0.10495681315660477
+XGBoost,Undersampling,XGBoost Gain,3,family_history_diabetes,0.07386989146471024
+XGBoost,Undersampling,XGBoost Gain,4,self_rated_health,0.057452909648418427
+XGBoost,Undersampling,XGBoost Gain,5,ever_told_high_cholesterol,0.036784712225198746
+XGBoost,Undersampling,XGBoost Gain,6,waist_circumference,0.03550572693347931
+XGBoost,Undersampling,XGBoost Gain,7,race_ethnicity_3.0,0.027048667892813683
+XGBoost,Undersampling,XGBoost Gain,8,hdl_cholesterol_mg_dl,0.02434128150343895
+XGBoost,Undersampling,XGBoost Gain,9,total_cholesterol_mg_dl,0.02276342362165451
+XGBoost,Undersampling,XGBoost Gain,10,bmi,0.021670041605830193
+XGBoost,Undersampling,XGBoost Gain,11,vigorous_recreational_activity,0.020849868655204773
+XGBoost,Undersampling,XGBoost Gain,12,healthcare_visits_past_12_months,0.02062852680683136
+XGBoost,Undersampling,XGBoost Gain,13,education_level,0.019662940874695778
+XGBoost,Undersampling,XGBoost Gain,14,total_sugar_g,0.019658172503113747
+XGBoost,Undersampling,XGBoost Gain,15,household_food_security_category,0.013198841363191605
+XGBoost,Undersampling,XGBoost Gain,16,mean_systolic_bp,0.011820969171822071
+XGBoost,Undersampling,XGBoost Gain,17,moderate_recreational_activity,0.011790799908339977
+XGBoost,Undersampling,XGBoost Gain,18,race_ethnicity_6.0,0.011592761613428593
+XGBoost,Undersampling,XGBoost Gain,19,mean_diastolic_bp,0.010536737740039825
+XGBoost,Undersampling,XGBoost Gain,20,adult_food_security_category,0.010035952553153038
+XGBoost,Undersampling,XGBoost Gain,21,fiber_g,0.009794685058295727
+XGBoost,Undersampling,XGBoost Gain,22,physical_activity_moderate_equivalent_min_week,0.009699859656393528
+XGBoost,Undersampling,XGBoost Gain,23,income_poverty_ratio,0.00957268476486206
+XGBoost,Undersampling,XGBoost Gain,24,carbohydrate_g,0.009462504647672176
+XGBoost,Undersampling,XGBoost Gain,25,race_ethnicity_4.0,0.009040514007210732
+XGBoost,Undersampling,XGBoost Gain,26,cholesterol_mg,0.008989023044705391
+XGBoost,Undersampling,XGBoost Gain,27,total_fat_g,0.008958280086517334
+XGBoost,Undersampling,XGBoost Gain,28,protein_g,0.00892700720578432
+XGBoost,Undersampling,XGBoost Gain,29,sex,0.008676201105117798
+XGBoost,Undersampling,XGBoost Gain,30,insurance_gap_past_12_months,0.008453207090497017
+XGBoost,Undersampling,XGBoost Gain,31,usual_place_for_healthcare,0.008447708562016487
+XGBoost,Undersampling,XGBoost Gain,32,vigorous_work_activity,0.008419341407716274
+XGBoost,Undersampling,XGBoost Gain,33,sedentary_minutes_per_day,0.008333614096045494
+XGBoost,Undersampling,XGBoost Gain,34,energy_kcal,0.008176264353096485
+XGBoost,Undersampling,XGBoost Gain,35,moderate_work_activity,0.00761560769751668
+XGBoost,Undersampling,XGBoost Gain,36,sleep_hours,0.007200565654784441
+XGBoost,Undersampling,XGBoost Gain,37,ever_almost_daily_heavy_drinking,0.007151689846068621
+XGBoost,Undersampling,XGBoost Gain,38,phq9_score,0.007115169893950224
+XGBoost,Undersampling,XGBoost Gain,39,ever_smoked_100_cigarettes,0.007096503395587206
+XGBoost,Undersampling,XGBoost Gain,40,has_health_insurance,0.006923559121787548
+XGBoost,Undersampling,XGBoost Gain,41,trouble_sleeping_reported_to_doctor,0.006535150110721588
+XGBoost,Undersampling,XGBoost Gain,42,walk_or_bicycle_transport,0.0032736468128859997
+XGBoost,Undersampling,XGBoost Gain,43,race_ethnicity_2.0,0.0

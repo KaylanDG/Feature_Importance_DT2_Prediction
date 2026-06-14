@@ -1,0 +1,130 @@
+Model,Strategy,Method,Rank,Feature,Importance
+XGBoost,SMOTE,SHAP,1,age,0.6239014863967896
+XGBoost,SMOTE,SHAP,2,family_history_diabetes,0.5334593653678894
+XGBoost,SMOTE,SHAP,3,ever_told_hypertension,0.4438757300376892
+XGBoost,SMOTE,SHAP,4,waist_circumference,0.30160507559776306
+XGBoost,SMOTE,SHAP,5,ever_told_high_cholesterol,0.28387776017189026
+XGBoost,SMOTE,SHAP,6,self_rated_health,0.22832603752613068
+XGBoost,SMOTE,SHAP,7,hdl_cholesterol_mg_dl,0.22355125844478607
+XGBoost,SMOTE,SHAP,8,race_ethnicity_4.0,0.2137606292963028
+XGBoost,SMOTE,SHAP,9,total_cholesterol_mg_dl,0.19853290915489197
+XGBoost,SMOTE,SHAP,10,race_ethnicity_6.0,0.1909378170967102
+XGBoost,SMOTE,SHAP,11,total_sugar_g,0.19054105877876282
+XGBoost,SMOTE,SHAP,12,mean_systolic_bp,0.16316980123519897
+XGBoost,SMOTE,SHAP,13,bmi,0.14911338686943054
+XGBoost,SMOTE,SHAP,14,healthcare_visits_past_12_months,0.14557932317256927
+XGBoost,SMOTE,SHAP,15,mean_diastolic_bp,0.13048312067985535
+XGBoost,SMOTE,SHAP,16,sex,0.10144267976284027
+XGBoost,SMOTE,SHAP,17,education_level,0.10130253434181213
+XGBoost,SMOTE,SHAP,18,fiber_g,0.09859486669301987
+XGBoost,SMOTE,SHAP,19,race_ethnicity_3.0,0.09817752987146378
+XGBoost,SMOTE,SHAP,20,income_poverty_ratio,0.08207937330007553
+XGBoost,SMOTE,SHAP,21,vigorous_recreational_activity,0.07962832599878311
+XGBoost,SMOTE,SHAP,22,ever_smoked_100_cigarettes,0.07442259788513184
+XGBoost,SMOTE,SHAP,23,trouble_sleeping_reported_to_doctor,0.07115623354911804
+XGBoost,SMOTE,SHAP,24,race_ethnicity_2.0,0.0583629310131073
+XGBoost,SMOTE,SHAP,25,moderate_work_activity,0.05120179429650307
+XGBoost,SMOTE,SHAP,26,total_fat_g,0.049865689128637314
+XGBoost,SMOTE,SHAP,27,sedentary_minutes_per_day,0.04776296019554138
+XGBoost,SMOTE,SHAP,28,moderate_recreational_activity,0.04718472436070442
+XGBoost,SMOTE,SHAP,29,energy_kcal,0.04705674946308136
+XGBoost,SMOTE,SHAP,30,sleep_hours,0.04432384669780731
+XGBoost,SMOTE,SHAP,31,cholesterol_mg,0.036904703825712204
+XGBoost,SMOTE,SHAP,32,carbohydrate_g,0.031120596453547478
+XGBoost,SMOTE,SHAP,33,physical_activity_moderate_equivalent_min_week,0.030034692957997322
+XGBoost,SMOTE,SHAP,34,phq9_score,0.029461288824677467
+XGBoost,SMOTE,SHAP,35,ever_almost_daily_heavy_drinking,0.022054467350244522
+XGBoost,SMOTE,SHAP,36,usual_place_for_healthcare,0.021021807566285133
+XGBoost,SMOTE,SHAP,37,protein_g,0.02098540961742401
+XGBoost,SMOTE,SHAP,38,has_health_insurance,0.01788773387670517
+XGBoost,SMOTE,SHAP,39,walk_or_bicycle_transport,0.016357438638806343
+XGBoost,SMOTE,SHAP,40,household_food_security_category,0.01596871204674244
+XGBoost,SMOTE,SHAP,41,vigorous_work_activity,0.0073425909504294395
+XGBoost,SMOTE,SHAP,42,adult_food_security_category,0.0045946259051561356
+XGBoost,SMOTE,SHAP,43,insurance_gap_past_12_months,0.0038716525305062532
+XGBoost,SMOTE,Permutation,1,age,0.058870606188780664
+XGBoost,SMOTE,Permutation,2,family_history_diabetes,0.03112488761674089
+XGBoost,SMOTE,Permutation,3,race_ethnicity_6.0,0.013844917379594108
+XGBoost,SMOTE,Permutation,4,waist_circumference,0.012401571096232827
+XGBoost,SMOTE,Permutation,5,race_ethnicity_4.0,0.011872609290606888
+XGBoost,SMOTE,Permutation,6,total_cholesterol_mg_dl,0.010232043062464297
+XGBoost,SMOTE,Permutation,7,hdl_cholesterol_mg_dl,0.009508879122449654
+XGBoost,SMOTE,Permutation,8,self_rated_health,0.009495649041688193
+XGBoost,SMOTE,Permutation,9,total_sugar_g,0.007879104584271213
+XGBoost,SMOTE,Permutation,10,race_ethnicity_3.0,0.0060830366222154484
+XGBoost,SMOTE,Permutation,11,ever_told_hypertension,0.004926237471258327
+XGBoost,SMOTE,Permutation,12,ever_told_high_cholesterol,0.00490405052925143
+XGBoost,SMOTE,Permutation,13,mean_systolic_bp,0.003974697711968528
+XGBoost,SMOTE,Permutation,14,healthcare_visits_past_12_months,0.003422148700313499
+XGBoost,SMOTE,Permutation,15,bmi,0.0029497225545836838
+XGBoost,SMOTE,Permutation,16,mean_diastolic_bp,0.0023931176057608917
+XGBoost,SMOTE,Permutation,17,race_ethnicity_2.0,0.0012507979090677912
+XGBoost,SMOTE,Permutation,18,fiber_g,0.0010929603899106743
+XGBoost,SMOTE,Permutation,19,energy_kcal,0.0008910326609168406
+XGBoost,SMOTE,Permutation,20,sedentary_minutes_per_day,0.0007654193211326099
+XGBoost,SMOTE,Permutation,21,ever_almost_daily_heavy_drinking,0.000633655683768164
+XGBoost,SMOTE,Permutation,22,ever_smoked_100_cigarettes,0.0006051675536614453
+XGBoost,SMOTE,Permutation,23,sex,0.0005747359536618146
+XGBoost,SMOTE,Permutation,24,phq9_score,0.000347585365406089
+XGBoost,SMOTE,Permutation,25,income_poverty_ratio,0.0002643300122932957
+XGBoost,SMOTE,Permutation,26,carbohydrate_g,0.0002606844973389477
+XGBoost,SMOTE,Permutation,27,cholesterol_mg,0.00025237344751753433
+XGBoost,SMOTE,Permutation,28,physical_activity_moderate_equivalent_min_week,0.00024142483141298965
+XGBoost,SMOTE,Permutation,29,vigorous_recreational_activity,0.0001420060858370764
+XGBoost,SMOTE,Permutation,30,moderate_work_activity,0.00013668266830441645
+XGBoost,SMOTE,Permutation,31,trouble_sleeping_reported_to_doctor,9.867032859844915e-05
+XGBoost,SMOTE,Permutation,32,vigorous_work_activity,1.7811116937416215e-05
+XGBoost,SMOTE,Permutation,33,household_food_security_category,7.266887425483315e-06
+XGBoost,SMOTE,Permutation,34,insurance_gap_past_12_months,-7.954948195121326e-06
+XGBoost,SMOTE,Permutation,35,adult_food_security_category,-1.0127771677836961e-05
+XGBoost,SMOTE,Permutation,36,walk_or_bicycle_transport,-1.9482983895124927e-05
+XGBoost,SMOTE,Permutation,37,usual_place_for_healthcare,-2.537374978158202e-05
+XGBoost,SMOTE,Permutation,38,has_health_insurance,-4.890059960278581e-05
+XGBoost,SMOTE,Permutation,39,total_fat_g,-0.00015218817810205287
+XGBoost,SMOTE,Permutation,40,protein_g,-0.000167416049343444
+XGBoost,SMOTE,Permutation,41,sleep_hours,-0.00035478586100309297
+XGBoost,SMOTE,Permutation,42,moderate_recreational_activity,-0.0005530560038010613
+XGBoost,SMOTE,Permutation,43,education_level,-0.0006084630026103488
+XGBoost,SMOTE,XGBoost Gain,1,ever_told_hypertension,0.25804397463798523
+XGBoost,SMOTE,XGBoost Gain,2,ever_told_high_cholesterol,0.13011988997459412
+XGBoost,SMOTE,XGBoost Gain,3,family_history_diabetes,0.10982059687376022
+XGBoost,SMOTE,XGBoost Gain,4,vigorous_recreational_activity,0.04638035595417023
+XGBoost,SMOTE,XGBoost Gain,5,moderate_recreational_activity,0.04224160313606262
+XGBoost,SMOTE,XGBoost Gain,6,sex,0.04068516567349434
+XGBoost,SMOTE,XGBoost Gain,7,age,0.03634880855679512
+XGBoost,SMOTE,XGBoost Gain,8,trouble_sleeping_reported_to_doctor,0.035081036388874054
+XGBoost,SMOTE,XGBoost Gain,9,ever_smoked_100_cigarettes,0.031560853123664856
+XGBoost,SMOTE,XGBoost Gain,10,moderate_work_activity,0.022054651752114296
+XGBoost,SMOTE,XGBoost Gain,11,ever_almost_daily_heavy_drinking,0.01617499440908432
+XGBoost,SMOTE,XGBoost Gain,12,race_ethnicity_3.0,0.01567763462662697
+XGBoost,SMOTE,XGBoost Gain,13,has_health_insurance,0.015288653783500195
+XGBoost,SMOTE,XGBoost Gain,14,waist_circumference,0.014498312026262283
+XGBoost,SMOTE,XGBoost Gain,15,education_level,0.012780397199094296
+XGBoost,SMOTE,XGBoost Gain,16,usual_place_for_healthcare,0.011957244016230106
+XGBoost,SMOTE,XGBoost Gain,17,race_ethnicity_4.0,0.011684237979352474
+XGBoost,SMOTE,XGBoost Gain,18,race_ethnicity_6.0,0.010505062527954578
+XGBoost,SMOTE,XGBoost Gain,19,self_rated_health,0.010069630108773708
+XGBoost,SMOTE,XGBoost Gain,20,walk_or_bicycle_transport,0.009807923808693886
+XGBoost,SMOTE,XGBoost Gain,21,total_cholesterol_mg_dl,0.009038559161126614
+XGBoost,SMOTE,XGBoost Gain,22,race_ethnicity_2.0,0.00855179037898779
+XGBoost,SMOTE,XGBoost Gain,23,hdl_cholesterol_mg_dl,0.008146001026034355
+XGBoost,SMOTE,XGBoost Gain,24,bmi,0.00760147487744689
+XGBoost,SMOTE,XGBoost Gain,25,income_poverty_ratio,0.007453788537532091
+XGBoost,SMOTE,XGBoost Gain,26,vigorous_work_activity,0.006920079234987497
+XGBoost,SMOTE,XGBoost Gain,27,total_sugar_g,0.006266272161155939
+XGBoost,SMOTE,XGBoost Gain,28,healthcare_visits_past_12_months,0.00602840818464756
+XGBoost,SMOTE,XGBoost Gain,29,phq9_score,0.005854111630469561
+XGBoost,SMOTE,XGBoost Gain,30,mean_diastolic_bp,0.004798382055014372
+XGBoost,SMOTE,XGBoost Gain,31,mean_systolic_bp,0.004606023896485567
+XGBoost,SMOTE,XGBoost Gain,32,sleep_hours,0.004492899868637323
+XGBoost,SMOTE,XGBoost Gain,33,insurance_gap_past_12_months,0.004451603163033724
+XGBoost,SMOTE,XGBoost Gain,34,fiber_g,0.003871265333145857
+XGBoost,SMOTE,XGBoost Gain,35,energy_kcal,0.0038037863560020924
+XGBoost,SMOTE,XGBoost Gain,36,sedentary_minutes_per_day,0.0036828317679464817
+XGBoost,SMOTE,XGBoost Gain,37,physical_activity_moderate_equivalent_min_week,0.003582373959943652
+XGBoost,SMOTE,XGBoost Gain,38,cholesterol_mg,0.0035474225878715515
+XGBoost,SMOTE,XGBoost Gain,39,protein_g,0.003532474860548973
+XGBoost,SMOTE,XGBoost Gain,40,carbohydrate_g,0.003524133935570717
+XGBoost,SMOTE,XGBoost Gain,41,total_fat_g,0.0034048613160848618
+XGBoost,SMOTE,XGBoost Gain,42,household_food_security_category,0.0032747723162174225
+XGBoost,SMOTE,XGBoost Gain,43,adult_food_security_category,0.002785568358376622

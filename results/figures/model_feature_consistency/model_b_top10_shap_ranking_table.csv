@@ -1,0 +1,11 @@
+Rank,Logistic Regression - Feature,Logistic Regression - Mean |SHAP|,Random Forest - Feature,Random Forest - Mean |SHAP|,XGBoost - Feature,XGBoost - Mean |SHAP|,Decision Tree - Feature,Decision Tree - Mean |SHAP|
+1,age,0.6535482310805784,age,0.0936917532406234,age,0.7214366793632507,age,0.1745747477988664
+2,family_history_diabetes,0.5424510820551747,family_history_diabetes,0.0751791713739996,family_history_diabetes,0.5015535354614258,family_history_diabetes,0.1049020492840899
+3,waist_circumference,0.3369325627787448,ever_told_hypertension,0.0497751317463433,waist_circumference,0.3202394545078277,self_rated_health,0.0562025243461052
+4,self_rated_health,0.3220717604405974,waist_circumference,0.0446258076759767,self_rated_health,0.2952346503734588,bmi,0.0429626288689654
+5,energy_kcal,0.2949153786545547,self_rated_health,0.0409568845499986,hdl_cholesterol_mg_dl,0.2408042252063751,waist_circumference,0.0375150109648261
+6,race_ethnicity_3.0,0.2572673688125274,ever_told_high_cholesterol,0.0309103312873258,total_sugar_g,0.2098565846681594,total_cholesterol_mg_dl,0.0352127910636563
+7,ever_told_high_cholesterol,0.1994733080886406,bmi,0.0271328380044883,total_cholesterol_mg_dl,0.2037844359874725,hdl_cholesterol_mg_dl,0.0299567727857671
+8,hdl_cholesterol_mg_dl,0.19532027482339,hdl_cholesterol_mg_dl,0.0263011964839563,race_ethnicity_3.0,0.1893673539161682,total_sugar_g,0.0196562083912325
+9,total_fat_g,0.1737237906610039,total_cholesterol_mg_dl,0.0245425866761163,healthcare_visits_past_12_months,0.1723758280277252,race_ethnicity_3.0,0.014314643975007
+10,total_sugar_g,0.1483565965761969,mean_systolic_bp,0.0218090618895407,ever_told_high_cholesterol,0.1659305095672607,ever_told_high_cholesterol,0.0104928779445883

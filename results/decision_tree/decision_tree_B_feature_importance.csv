@@ -1,0 +1,130 @@
+Model,Strategy,Method,Rank,Feature,Importance
+Decision Tree,Undersampling,SHAP,1,age,0.17457474779886645
+Decision Tree,Undersampling,SHAP,2,family_history_diabetes,0.1049020492840899
+Decision Tree,Undersampling,SHAP,3,self_rated_health,0.056202524346105204
+Decision Tree,Undersampling,SHAP,4,bmi,0.042962628868965465
+Decision Tree,Undersampling,SHAP,5,waist_circumference,0.03751501096482619
+Decision Tree,Undersampling,SHAP,6,total_cholesterol_mg_dl,0.03521279106365635
+Decision Tree,Undersampling,SHAP,7,hdl_cholesterol_mg_dl,0.029956772785767177
+Decision Tree,Undersampling,SHAP,8,total_sugar_g,0.01965620839123253
+Decision Tree,Undersampling,SHAP,9,race_ethnicity_3.0,0.014314643975007002
+Decision Tree,Undersampling,SHAP,10,ever_told_high_cholesterol,0.010492877944588324
+Decision Tree,Undersampling,SHAP,11,ever_told_hypertension,0.0050596858353078806
+Decision Tree,Undersampling,SHAP,12,income_poverty_ratio,0.005043765218309859
+Decision Tree,Undersampling,SHAP,13,healthcare_visits_past_12_months,0.004437478090042875
+Decision Tree,Undersampling,SHAP,14,mean_systolic_bp,0.003909165144370204
+Decision Tree,Undersampling,SHAP,15,physical_activity_moderate_equivalent_min_week,0.00368658467115517
+Decision Tree,Undersampling,SHAP,16,adult_food_security_category,0.0036810558695433873
+Decision Tree,Undersampling,SHAP,17,carbohydrate_g,0.0035407922111572758
+Decision Tree,Undersampling,SHAP,18,education_level,0.0035018392825436335
+Decision Tree,Undersampling,SHAP,19,sedentary_minutes_per_day,0.0027436041755177923
+Decision Tree,Undersampling,SHAP,20,total_fat_g,0.002231800470887258
+Decision Tree,Undersampling,SHAP,21,fiber_g,0.002196528761841199
+Decision Tree,Undersampling,SHAP,22,vigorous_recreational_activity,0.002033222309680224
+Decision Tree,Undersampling,SHAP,23,protein_g,0.0016084711148535817
+Decision Tree,Undersampling,SHAP,24,mean_diastolic_bp,0.001298492021247817
+Decision Tree,Undersampling,SHAP,25,insurance_gap_past_12_months,0.0
+Decision Tree,Undersampling,SHAP,26,has_health_insurance,0.0
+Decision Tree,Undersampling,SHAP,27,usual_place_for_healthcare,0.0
+Decision Tree,Undersampling,SHAP,28,race_ethnicity_2.0,0.0
+Decision Tree,Undersampling,SHAP,29,race_ethnicity_4.0,0.0
+Decision Tree,Undersampling,SHAP,30,trouble_sleeping_reported_to_doctor,0.0
+Decision Tree,Undersampling,SHAP,31,moderate_recreational_activity,0.0
+Decision Tree,Undersampling,SHAP,32,vigorous_work_activity,0.0
+Decision Tree,Undersampling,SHAP,33,walk_or_bicycle_transport,0.0
+Decision Tree,Undersampling,SHAP,34,moderate_work_activity,0.0
+Decision Tree,Undersampling,SHAP,35,ever_almost_daily_heavy_drinking,0.0
+Decision Tree,Undersampling,SHAP,36,ever_smoked_100_cigarettes,0.0
+Decision Tree,Undersampling,SHAP,37,sex,0.0
+Decision Tree,Undersampling,SHAP,38,household_food_security_category,0.0
+Decision Tree,Undersampling,SHAP,39,sleep_hours,0.0
+Decision Tree,Undersampling,SHAP,40,phq9_score,0.0
+Decision Tree,Undersampling,SHAP,41,cholesterol_mg,0.0
+Decision Tree,Undersampling,SHAP,42,energy_kcal,0.0
+Decision Tree,Undersampling,SHAP,43,race_ethnicity_6.0,0.0
+Decision Tree,Undersampling,Permutation,1,age,0.1268507386151292
+Decision Tree,Undersampling,Permutation,2,family_history_diabetes,0.04227465285523486
+Decision Tree,Undersampling,Permutation,3,self_rated_health,0.02348642926880143
+Decision Tree,Undersampling,Permutation,4,waist_circumference,0.016516904808120337
+Decision Tree,Undersampling,Permutation,5,bmi,0.016473043951873507
+Decision Tree,Undersampling,Permutation,6,total_cholesterol_mg_dl,0.014963354124839817
+Decision Tree,Undersampling,Permutation,7,hdl_cholesterol_mg_dl,0.008453104192197285
+Decision Tree,Undersampling,Permutation,8,total_sugar_g,0.005318353646818647
+Decision Tree,Undersampling,Permutation,9,ever_told_high_cholesterol,0.00397678603676036
+Decision Tree,Undersampling,Permutation,10,race_ethnicity_3.0,0.0030111108535913643
+Decision Tree,Undersampling,Permutation,11,healthcare_visits_past_12_months,0.0021375694217102836
+Decision Tree,Undersampling,Permutation,12,ever_told_hypertension,0.001729380387998708
+Decision Tree,Undersampling,Permutation,13,income_poverty_ratio,0.0011547832536148717
+Decision Tree,Undersampling,Permutation,14,mean_systolic_bp,0.0005779770820236452
+Decision Tree,Undersampling,Permutation,15,sedentary_minutes_per_day,0.0004436724483085408
+Decision Tree,Undersampling,Permutation,16,adult_food_security_category,0.00040278715310881343
+Decision Tree,Undersampling,Permutation,17,education_level,0.00039681792415211523
+Decision Tree,Undersampling,Permutation,18,carbohydrate_g,0.0003426361563622471
+Decision Tree,Undersampling,Permutation,19,mean_diastolic_bp,0.00014823484648766595
+Decision Tree,Undersampling,Permutation,20,phq9_score,0.0
+Decision Tree,Undersampling,Permutation,21,moderate_recreational_activity,0.0
+Decision Tree,Undersampling,Permutation,22,trouble_sleeping_reported_to_doctor,0.0
+Decision Tree,Undersampling,Permutation,23,has_health_insurance,0.0
+Decision Tree,Undersampling,Permutation,24,moderate_work_activity,0.0
+Decision Tree,Undersampling,Permutation,25,insurance_gap_past_12_months,0.0
+Decision Tree,Undersampling,Permutation,26,usual_place_for_healthcare,0.0
+Decision Tree,Undersampling,Permutation,27,race_ethnicity_2.0,0.0
+Decision Tree,Undersampling,Permutation,28,race_ethnicity_4.0,0.0
+Decision Tree,Undersampling,Permutation,29,walk_or_bicycle_transport,0.0
+Decision Tree,Undersampling,Permutation,30,ever_almost_daily_heavy_drinking,0.0
+Decision Tree,Undersampling,Permutation,31,vigorous_work_activity,0.0
+Decision Tree,Undersampling,Permutation,32,energy_kcal,0.0
+Decision Tree,Undersampling,Permutation,33,ever_smoked_100_cigarettes,0.0
+Decision Tree,Undersampling,Permutation,34,sex,0.0
+Decision Tree,Undersampling,Permutation,35,household_food_security_category,0.0
+Decision Tree,Undersampling,Permutation,36,cholesterol_mg,0.0
+Decision Tree,Undersampling,Permutation,37,sleep_hours,0.0
+Decision Tree,Undersampling,Permutation,38,race_ethnicity_6.0,0.0
+Decision Tree,Undersampling,Permutation,39,vigorous_recreational_activity,-6.771362959049898e-05
+Decision Tree,Undersampling,Permutation,40,protein_g,-0.00014628534097386182
+Decision Tree,Undersampling,Permutation,41,physical_activity_moderate_equivalent_min_week,-0.00022501397849773453
+Decision Tree,Undersampling,Permutation,42,fiber_g,-0.0005135951151064467
+Decision Tree,Undersampling,Permutation,43,total_fat_g,-0.0009948755165283818
+Decision Tree,Undersampling,Gini Importance,1,age,0.4192506446572298
+Decision Tree,Undersampling,Gini Importance,2,family_history_diabetes,0.1497426624337232
+Decision Tree,Undersampling,Gini Importance,3,self_rated_health,0.07711733914130993
+Decision Tree,Undersampling,Gini Importance,4,waist_circumference,0.06956128126725468
+Decision Tree,Undersampling,Gini Importance,5,total_cholesterol_mg_dl,0.06050627377086619
+Decision Tree,Undersampling,Gini Importance,6,bmi,0.05577948098780924
+Decision Tree,Undersampling,Gini Importance,7,hdl_cholesterol_mg_dl,0.04616639241654755
+Decision Tree,Undersampling,Gini Importance,8,total_sugar_g,0.03324190770113857
+Decision Tree,Undersampling,Gini Importance,9,race_ethnicity_3.0,0.013669765771565449
+Decision Tree,Undersampling,Gini Importance,10,ever_told_high_cholesterol,0.008115652159752799
+Decision Tree,Undersampling,Gini Importance,11,mean_systolic_bp,0.007897072119890441
+Decision Tree,Undersampling,Gini Importance,12,income_poverty_ratio,0.0075546318013613185
+Decision Tree,Undersampling,Gini Importance,13,physical_activity_moderate_equivalent_min_week,0.00754750875370981
+Decision Tree,Undersampling,Gini Importance,14,total_fat_g,0.006214491140172258
+Decision Tree,Undersampling,Gini Importance,15,education_level,0.005904451327765654
+Decision Tree,Undersampling,Gini Importance,16,healthcare_visits_past_12_months,0.0052698166915324555
+Decision Tree,Undersampling,Gini Importance,17,ever_told_hypertension,0.004653634783655638
+Decision Tree,Undersampling,Gini Importance,18,sedentary_minutes_per_day,0.004316932542142429
+Decision Tree,Undersampling,Gini Importance,19,protein_g,0.0033855886923267243
+Decision Tree,Undersampling,Gini Importance,20,fiber_g,0.0030924025550845774
+Decision Tree,Undersampling,Gini Importance,21,adult_food_security_category,0.002984194866173037
+Decision Tree,Undersampling,Gini Importance,22,vigorous_recreational_activity,0.0028746147926156547
+Decision Tree,Undersampling,Gini Importance,23,carbohydrate_g,0.0028427073999560096
+Decision Tree,Undersampling,Gini Importance,24,mean_diastolic_bp,0.00231055222641655
+Decision Tree,Undersampling,Gini Importance,25,race_ethnicity_4.0,0.0
+Decision Tree,Undersampling,Gini Importance,26,race_ethnicity_2.0,0.0
+Decision Tree,Undersampling,Gini Importance,27,usual_place_for_healthcare,0.0
+Decision Tree,Undersampling,Gini Importance,28,insurance_gap_past_12_months,0.0
+Decision Tree,Undersampling,Gini Importance,29,has_health_insurance,0.0
+Decision Tree,Undersampling,Gini Importance,30,trouble_sleeping_reported_to_doctor,0.0
+Decision Tree,Undersampling,Gini Importance,31,moderate_recreational_activity,0.0
+Decision Tree,Undersampling,Gini Importance,32,moderate_work_activity,0.0
+Decision Tree,Undersampling,Gini Importance,33,walk_or_bicycle_transport,0.0
+Decision Tree,Undersampling,Gini Importance,34,vigorous_work_activity,0.0
+Decision Tree,Undersampling,Gini Importance,35,ever_almost_daily_heavy_drinking,0.0
+Decision Tree,Undersampling,Gini Importance,36,ever_smoked_100_cigarettes,0.0
+Decision Tree,Undersampling,Gini Importance,37,sleep_hours,0.0
+Decision Tree,Undersampling,Gini Importance,38,sex,0.0
+Decision Tree,Undersampling,Gini Importance,39,household_food_security_category,0.0
+Decision Tree,Undersampling,Gini Importance,40,phq9_score,0.0
+Decision Tree,Undersampling,Gini Importance,41,energy_kcal,0.0
+Decision Tree,Undersampling,Gini Importance,42,cholesterol_mg,0.0
+Decision Tree,Undersampling,Gini Importance,43,race_ethnicity_6.0,0.0

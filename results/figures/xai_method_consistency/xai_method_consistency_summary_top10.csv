@@ -1,0 +1,25 @@
+Model,Strategy,Method A,Method B,Top-N Overlap,Spearman ρ,Jaccard Similarity,Pair
+Logistic Regression,SMOTE,SHAP,Permutation,9,0.8472,0.8182,SHAP vs Permutation
+Logistic Regression,SMOTE,SHAP,Coefficient,8,0.8842,0.6667,SHAP vs Coefficient
+Logistic Regression,SMOTE,Permutation,Coefficient,9,0.7955,0.8182,Permutation vs Coefficient
+Logistic Regression,Undersampling,SHAP,Permutation,10,0.8893,1.0,SHAP vs Permutation
+Logistic Regression,Undersampling,SHAP,Coefficient,7,0.9428,0.5385,SHAP vs Coefficient
+Logistic Regression,Undersampling,Permutation,Coefficient,7,0.8457,0.5385,Permutation vs Coefficient
+Random Forest,SMOTE,SHAP,Permutation,8,0.6208,0.6667,SHAP vs Permutation
+Random Forest,SMOTE,SHAP,Mean Decrease Impurity,7,0.918,0.5385,SHAP vs Mean Decrease Impurity
+Random Forest,SMOTE,Permutation,Mean Decrease Impurity,6,0.4228,0.4286,Permutation vs Mean Decrease Impurity
+Random Forest,Undersampling,SHAP,Permutation,8,0.8265,0.6667,SHAP vs Permutation
+Random Forest,Undersampling,SHAP,Mean Decrease Impurity,10,0.926,1.0,SHAP vs Mean Decrease Impurity
+Random Forest,Undersampling,Permutation,Mean Decrease Impurity,8,0.7854,0.6667,Permutation vs Mean Decrease Impurity
+XGBoost,SMOTE,SHAP,Permutation,8,0.8102,0.6667,SHAP vs Permutation
+XGBoost,SMOTE,SHAP,XGBoost Gain,4,0.4946,0.25,SHAP vs XGBoost Gain
+XGBoost,SMOTE,Permutation,XGBoost Gain,2,0.2824,0.1111,Permutation vs XGBoost Gain
+XGBoost,Undersampling,SHAP,Permutation,10,0.785,1.0,SHAP vs Permutation
+XGBoost,Undersampling,SHAP,XGBoost Gain,8,0.8786,0.6667,SHAP vs XGBoost Gain
+XGBoost,Undersampling,Permutation,XGBoost Gain,8,0.6349,0.6667,Permutation vs XGBoost Gain
+Decision Tree,SMOTE,SHAP,Permutation,9,0.7209,0.8182,SHAP vs Permutation
+Decision Tree,SMOTE,SHAP,Gini Importance,8,0.9706,0.6667,SHAP vs Gini Importance
+Decision Tree,SMOTE,Permutation,Gini Importance,8,0.6549,0.6667,Permutation vs Gini Importance
+Decision Tree,Undersampling,SHAP,Permutation,10,0.7602,1.0,SHAP vs Permutation
+Decision Tree,Undersampling,SHAP,Gini Importance,10,0.9817,1.0,SHAP vs Gini Importance
+Decision Tree,Undersampling,Permutation,Gini Importance,10,0.7049,1.0,Permutation vs Gini Importance

@@ -1,0 +1,44 @@
+NHANES Diabetes Prediction — Preprocessing Report
+=======================================================
+
+Input file:           ../data/processed/nhanes_analysis_ready.parquet
+Total samples:        26,000
+Train samples:        20,800
+Test samples:         5,200
+Test size:            20%
+Random state:         42
+Stratified split:     Yes (by diabetes label)
+
+Feature counts after encoding:
+  Total features:     43
+  Continuous:         19
+  Ordinal:            5
+  Nominal binary:     15
+  OHE dummies:        4
+
+Imputation:
+  Continuous:         Median
+  Ordinal:            Median (rounded to int)
+  Nominal:            Most frequent
+
+Scaling:
+  Method:             StandardScaler (mean=0, std=1)
+  Columns scaled:     24 (continuous + ordinal)
+  Fit on:             Training set only
+
+Output files:
+  X_train_scaled.parquet   → Logistic Regression
+  X_test_scaled.parquet    → Logistic Regression
+  X_train_unscaled.parquet → Decision Tree, Random Forest, XGBoost
+  X_test_unscaled.parquet  → Decision Tree, Random Forest, XGBoost
+  y_train.parquet          → All models
+  y_test.parquet           → All models
+  feature_names.json       → Feature name manifest
+
+Class distribution (train):
+  No diabetes (0): 0.811
+  Diabetes (1):    0.189
+
+Class distribution (test):
+  No diabetes (0): 0.811
+  Diabetes (1):    0.189

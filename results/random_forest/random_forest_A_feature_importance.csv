@@ -1,0 +1,130 @@
+Model,Strategy,Method,Rank,Feature,Importance
+Random Forest,SMOTE,SHAP,1,family_history_diabetes,0.08804619606469839
+Random Forest,SMOTE,SHAP,2,ever_told_hypertension,0.0832448955581106
+Random Forest,SMOTE,SHAP,3,age,0.06596627427839531
+Random Forest,SMOTE,SHAP,4,ever_told_high_cholesterol,0.056141336999304715
+Random Forest,SMOTE,SHAP,5,waist_circumference,0.03545774305961994
+Random Forest,SMOTE,SHAP,6,bmi,0.020856690642056506
+Random Forest,SMOTE,SHAP,7,vigorous_recreational_activity,0.0194366680470232
+Random Forest,SMOTE,SHAP,8,total_cholesterol_mg_dl,0.01908682078566891
+Random Forest,SMOTE,SHAP,9,hdl_cholesterol_mg_dl,0.017277711552926452
+Random Forest,SMOTE,SHAP,10,education_level,0.016354621921872516
+Random Forest,SMOTE,SHAP,11,moderate_recreational_activity,0.015262562502610525
+Random Forest,SMOTE,SHAP,12,sex,0.015051236460548947
+Random Forest,SMOTE,SHAP,13,ever_smoked_100_cigarettes,0.013967264359698235
+Random Forest,SMOTE,SHAP,14,mean_systolic_bp,0.013819919574524253
+Random Forest,SMOTE,SHAP,15,trouble_sleeping_reported_to_doctor,0.013155724629004956
+Random Forest,SMOTE,SHAP,16,income_poverty_ratio,0.010788633527867242
+Random Forest,SMOTE,SHAP,17,self_rated_health,0.010007152050468966
+Random Forest,SMOTE,SHAP,18,total_sugar_g,0.009875579198118793
+Random Forest,SMOTE,SHAP,19,race_ethnicity_4.0,0.009705624357258804
+Random Forest,SMOTE,SHAP,20,phq9_score,0.00820180632134227
+Random Forest,SMOTE,SHAP,21,moderate_work_activity,0.006696697303175404
+Random Forest,SMOTE,SHAP,22,has_health_insurance,0.006532621992358357
+Random Forest,SMOTE,SHAP,23,race_ethnicity_6.0,0.006336227916004314
+Random Forest,SMOTE,SHAP,24,usual_place_for_healthcare,0.005990533847383271
+Random Forest,SMOTE,SHAP,25,mean_diastolic_bp,0.005637972300365937
+Random Forest,SMOTE,SHAP,26,healthcare_visits_past_12_months,0.004654736809737912
+Random Forest,SMOTE,SHAP,27,walk_or_bicycle_transport,0.004487200254464444
+Random Forest,SMOTE,SHAP,28,carbohydrate_g,0.004114609000938578
+Random Forest,SMOTE,SHAP,29,energy_kcal,0.0035986735429450823
+Random Forest,SMOTE,SHAP,30,fiber_g,0.0033616154254317693
+Random Forest,SMOTE,SHAP,31,physical_activity_moderate_equivalent_min_week,0.002975073865356748
+Random Forest,SMOTE,SHAP,32,sedentary_minutes_per_day,0.002591691959778233
+Random Forest,SMOTE,SHAP,33,cholesterol_mg,0.002482450601897189
+Random Forest,SMOTE,SHAP,34,sleep_hours,0.0023567633455016538
+Random Forest,SMOTE,SHAP,35,race_ethnicity_2.0,0.0022458152443054252
+Random Forest,SMOTE,SHAP,36,ever_almost_daily_heavy_drinking,0.001704873908851386
+Random Forest,SMOTE,SHAP,37,protein_g,0.001594218106533758
+Random Forest,SMOTE,SHAP,38,total_fat_g,0.0015664879749619132
+Random Forest,SMOTE,SHAP,39,vigorous_work_activity,0.0015515803506791586
+Random Forest,SMOTE,SHAP,40,race_ethnicity_3.0,0.0012096480561020763
+Random Forest,SMOTE,SHAP,41,household_food_security_category,0.0006963896079577799
+Random Forest,SMOTE,SHAP,42,adult_food_security_category,0.0006633157316453983
+Random Forest,SMOTE,SHAP,43,insurance_gap_past_12_months,0.00036012601096672997
+Random Forest,SMOTE,Permutation,1,age,0.046864663999405
+Random Forest,SMOTE,Permutation,2,family_history_diabetes,0.03760396960364791
+Random Forest,SMOTE,Permutation,3,ever_told_hypertension,0.013486341148737863
+Random Forest,SMOTE,Permutation,4,total_cholesterol_mg_dl,0.00972296259170508
+Random Forest,SMOTE,Permutation,5,waist_circumference,0.009633200839385753
+Random Forest,SMOTE,Permutation,6,ever_told_high_cholesterol,0.00878921584249046
+Random Forest,SMOTE,Permutation,7,hdl_cholesterol_mg_dl,0.006820348057350834
+Random Forest,SMOTE,Permutation,8,self_rated_health,0.004489825874754477
+Random Forest,SMOTE,Permutation,9,total_sugar_g,0.0032177101530728447
+Random Forest,SMOTE,Permutation,10,bmi,0.0030758006371683134
+Random Forest,SMOTE,Permutation,11,race_ethnicity_6.0,0.0024325483163513684
+Random Forest,SMOTE,Permutation,12,race_ethnicity_4.0,0.0016011898381390055
+Random Forest,SMOTE,Permutation,13,mean_diastolic_bp,0.0013434326168808796
+Random Forest,SMOTE,Permutation,14,mean_systolic_bp,0.0012901380853464262
+Random Forest,SMOTE,Permutation,15,sex,0.0010973120724968588
+Random Forest,SMOTE,Permutation,16,healthcare_visits_past_12_months,0.0010516103519103647
+Random Forest,SMOTE,Permutation,17,vigorous_recreational_activity,0.0008790278111747652
+Random Forest,SMOTE,Permutation,18,carbohydrate_g,0.0005013186624290622
+Random Forest,SMOTE,Permutation,19,race_ethnicity_3.0,0.00047291503101328793
+Random Forest,SMOTE,Permutation,20,moderate_work_activity,0.00040071693517925165
+Random Forest,SMOTE,Permutation,21,trouble_sleeping_reported_to_doctor,0.00039808540451682364
+Random Forest,SMOTE,Permutation,22,sedentary_minutes_per_day,0.00038087181403708147
+Random Forest,SMOTE,Permutation,23,income_poverty_ratio,0.0003046057097937149
+Random Forest,SMOTE,Permutation,24,usual_place_for_healthcare,0.0002539789226464473
+Random Forest,SMOTE,Permutation,25,vigorous_work_activity,0.0002048972544201111
+Random Forest,SMOTE,Permutation,26,ever_almost_daily_heavy_drinking,0.00018659725219900004
+Random Forest,SMOTE,Permutation,27,education_level,0.00017510543022375424
+Random Forest,SMOTE,Permutation,28,cholesterol_mg,0.0001454705321677907
+Random Forest,SMOTE,Permutation,29,fiber_g,0.00011496650471874425
+Random Forest,SMOTE,Permutation,30,insurance_gap_past_12_months,7.492619642894827e-05
+Random Forest,SMOTE,Permutation,31,adult_food_security_category,5.363252629826398e-05
+Random Forest,SMOTE,Permutation,32,energy_kcal,4.3154688614943645e-05
+Random Forest,SMOTE,Permutation,33,household_food_security_category,3.0697167314019946e-05
+Random Forest,SMOTE,Permutation,34,protein_g,2.9453829432263266e-05
+Random Forest,SMOTE,Permutation,35,has_health_insurance,-2.7184436017235747e-05
+Random Forest,SMOTE,Permutation,36,sleep_hours,-4.5315440856358305e-05
+Random Forest,SMOTE,Permutation,37,physical_activity_moderate_equivalent_min_week,-4.740376564806859e-05
+Random Forest,SMOTE,Permutation,38,ever_smoked_100_cigarettes,-6.050106275222733e-05
+Random Forest,SMOTE,Permutation,39,race_ethnicity_2.0,-0.00016384296183860058
+Random Forest,SMOTE,Permutation,40,total_fat_g,-0.00026232015057197635
+Random Forest,SMOTE,Permutation,41,walk_or_bicycle_transport,-0.00027099937326125476
+Random Forest,SMOTE,Permutation,42,phq9_score,-0.0003743412723476114
+Random Forest,SMOTE,Permutation,43,moderate_recreational_activity,-0.0005469962405326489
+Random Forest,SMOTE,Mean Decrease Impurity,1,ever_told_hypertension,0.16442974603555427
+Random Forest,SMOTE,Mean Decrease Impurity,2,family_history_diabetes,0.1412085889947136
+Random Forest,SMOTE,Mean Decrease Impurity,3,ever_told_high_cholesterol,0.09839798552431256
+Random Forest,SMOTE,Mean Decrease Impurity,4,age,0.08751646550769857
+Random Forest,SMOTE,Mean Decrease Impurity,5,waist_circumference,0.05034756320470223
+Random Forest,SMOTE,Mean Decrease Impurity,6,moderate_recreational_activity,0.03271744925268436
+Random Forest,SMOTE,Mean Decrease Impurity,7,trouble_sleeping_reported_to_doctor,0.030899997558930612
+Random Forest,SMOTE,Mean Decrease Impurity,8,vigorous_recreational_activity,0.030693607039987966
+Random Forest,SMOTE,Mean Decrease Impurity,9,ever_smoked_100_cigarettes,0.030325894745759172
+Random Forest,SMOTE,Mean Decrease Impurity,10,bmi,0.027174282996883847
+Random Forest,SMOTE,Mean Decrease Impurity,11,sex,0.026151070991620888
+Random Forest,SMOTE,Mean Decrease Impurity,12,total_cholesterol_mg_dl,0.021012804565421254
+Random Forest,SMOTE,Mean Decrease Impurity,13,income_poverty_ratio,0.018241422222955824
+Random Forest,SMOTE,Mean Decrease Impurity,14,education_level,0.01809680767919593
+Random Forest,SMOTE,Mean Decrease Impurity,15,hdl_cholesterol_mg_dl,0.01685686585971882
+Random Forest,SMOTE,Mean Decrease Impurity,16,mean_systolic_bp,0.016654025175072078
+Random Forest,SMOTE,Mean Decrease Impurity,17,has_health_insurance,0.014905640000601805
+Random Forest,SMOTE,Mean Decrease Impurity,18,phq9_score,0.013114853401463648
+Random Forest,SMOTE,Mean Decrease Impurity,19,total_sugar_g,0.011696778211743
+Random Forest,SMOTE,Mean Decrease Impurity,20,usual_place_for_healthcare,0.011256483785989434
+Random Forest,SMOTE,Mean Decrease Impurity,21,walk_or_bicycle_transport,0.010902707394072873
+Random Forest,SMOTE,Mean Decrease Impurity,22,mean_diastolic_bp,0.010411723060181403
+Random Forest,SMOTE,Mean Decrease Impurity,23,moderate_work_activity,0.009481940926968097
+Random Forest,SMOTE,Mean Decrease Impurity,24,carbohydrate_g,0.00864312856237626
+Random Forest,SMOTE,Mean Decrease Impurity,25,energy_kcal,0.008231478552956834
+Random Forest,SMOTE,Mean Decrease Impurity,26,self_rated_health,0.007890176816606127
+Random Forest,SMOTE,Mean Decrease Impurity,27,fiber_g,0.0076737178698146795
+Random Forest,SMOTE,Mean Decrease Impurity,28,cholesterol_mg,0.007471442787630301
+Random Forest,SMOTE,Mean Decrease Impurity,29,physical_activity_moderate_equivalent_min_week,0.0074056820774113215
+Random Forest,SMOTE,Mean Decrease Impurity,30,protein_g,0.007119561517806699
+Random Forest,SMOTE,Mean Decrease Impurity,31,total_fat_g,0.007096071533189964
+Random Forest,SMOTE,Mean Decrease Impurity,32,sedentary_minutes_per_day,0.0070007033974806305
+Random Forest,SMOTE,Mean Decrease Impurity,33,sleep_hours,0.006536866113690235
+Random Forest,SMOTE,Mean Decrease Impurity,34,race_ethnicity_4.0,0.006149146126123155
+Random Forest,SMOTE,Mean Decrease Impurity,35,healthcare_visits_past_12_months,0.005399758305103245
+Random Forest,SMOTE,Mean Decrease Impurity,36,ever_almost_daily_heavy_drinking,0.0043071075397489375
+Random Forest,SMOTE,Mean Decrease Impurity,37,race_ethnicity_6.0,0.0042743148445041285
+Random Forest,SMOTE,Mean Decrease Impurity,38,race_ethnicity_3.0,0.0030023771945803506
+Random Forest,SMOTE,Mean Decrease Impurity,39,vigorous_work_activity,0.0029272776483947973
+Random Forest,SMOTE,Mean Decrease Impurity,40,race_ethnicity_2.0,0.0018405934722414308
+Random Forest,SMOTE,Mean Decrease Impurity,41,adult_food_security_category,0.00181208341487745
+Random Forest,SMOTE,Mean Decrease Impurity,42,household_food_security_category,0.0016913712595332433
+Random Forest,SMOTE,Mean Decrease Impurity,43,insurance_gap_past_12_months,0.0010324368296980658
